@@ -1,0 +1,42 @@
+[
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[2][1][1][0]",
+    "translation": "Футаро"
+  },
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[2][1][1][1]",
+    "translation": "Ч-что?!"
+  },
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[3][1][1][0]",
+    "translation": "Футаро"
+  },
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[3][1][1][1]",
+    "translation": "А-а, это ты, Райха."
+  },
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][0]",
+    "translation": "Райха"
+  },
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][1]",
+    "translation": "Ты только что задумался. С тобой всё в порядке?\\nТебя укачало?"
+  },
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][3]",
+    "translation": "Ты только что задумался. С тобой всё в порядке? Тебя укачало?"
+  },
+  {
+    "file": "op_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][4]",
+    "translation": "Ты только что задумался. С тобой всё в порядке? Тебя укачало?"
+  }
+]

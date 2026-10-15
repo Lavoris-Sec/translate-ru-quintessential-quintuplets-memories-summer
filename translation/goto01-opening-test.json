@@ -1,0 +1,42 @@
+[
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][0]",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][1]",
+    "translation": "(Так, пора бы уже ложиться спать.\\n Завтра, похоже, тоже много всего случится.)"
+  },
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][3]",
+    "translation": "(Так, пора бы уже ложиться спать. Завтра, похоже, тоже много всего случится.)"
+  },
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][4]",
+    "translation": "(Так, пора бы уже ложиться спать. Завтра, похоже, тоже много всего случится.)"
+  },
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][0]",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][1]",
+    "translation": "(Хм? Что это за звук?\\n Ночное животное?)"
+  },
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][3]",
+    "translation": "(Хм? Что это за звук? Ночное животное?)"
+  },
+  {
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][4]",
+    "translation": "(Хм? Что это за звук? Ночное животное?)"
+  }
+]

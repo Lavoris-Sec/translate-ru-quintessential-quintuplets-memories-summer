@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[0][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[0][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][1]",
+    "field": "text",
+    "original": "(Well, it's about time to hit the hay.\\n I bet a bunch of stuff will happen tomorrow, too.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[0][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][3]",
+    "field": "speechtext",
+    "original": "(Well, it's about time to hit the hay. I bet a bunch of stuff will happen tomorrow, too.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[0][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[0][1][1][4]",
+    "field": "searchtext",
+    "original": "(Well, it's about time to hit the hay. I bet a bunch of stuff will happen tomorrow, too.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[1][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[1][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][1]",
+    "field": "text",
+    "original": "(Hm? What's that sound?\\n A nocturnal animal?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[1][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][3]",
+    "field": "speechtext",
+    "original": "(Hm? What's that sound? A nocturnal animal?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[1][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[1][1][1][4]",
+    "field": "searchtext",
+    "original": "(Hm? What's that sound? A nocturnal animal?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[2][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[2][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[2][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[2][1][1][1]",
+    "field": "text",
+    "original": "(It's...a person?\\n I can't really tell from behind,\\n but perhaps...Ichika?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[2][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[2][1][1][3]",
+    "field": "speechtext",
+    "original": "(It's...a person? I can't really tell from behind, but perhaps...Ichika?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[2][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[2][1][1][4]",
+    "field": "searchtext",
+    "original": "(It's...a person? I can't really tell from behind, but perhaps...Ichika?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[3][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[3][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[3][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[3][1][1][1]",
+    "field": "text",
+    "original": "(It's careless to go out alone at such an hour,\\n even for her.\\n I'll go see what's going on.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[3][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[3][1][1][3]",
+    "field": "speechtext",
+    "original": "(It's careless to go out alone at such an hour, even for her. I'll go see what's going on.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[3][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[3][1][1][4]",
+    "field": "searchtext",
+    "original": "(It's careless to go out alone at such an hour, even for her. I'll go see what's going on.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[4][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[4][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][1]",
+    "field": "text",
+    "original": "(Huh? Where is she?\\n Did she come to look at the ocean at night?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[4][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][3]",
+    "field": "speechtext",
+    "original": "(Huh? Where is she? Did she come to look at the ocean at night?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[4][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[4][1][1][4]",
+    "field": "searchtext",
+    "original": "(Huh? Where is she? Did she come to look at the ocean at night?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[5][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[5][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[5][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[5][1][1][1]",
+    "field": "text",
+    "original": "(...There she is.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[6][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[6][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[6][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[6][1][1][1]",
+    "field": "text",
+    "original": "......",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[7][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[7][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[7][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[7][1][1][1]",
+    "field": "text",
+    "original": "(What's going on?\\n With such a somber look...\\n I wonder if I should talk to her...)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[7][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[7][1][1][3]",
+    "field": "speechtext",
+    "original": "(What's going on? With such a somber look... I wonder if I should talk to her...)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[7][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[7][1][1][4]",
+    "field": "searchtext",
+    "original": "(What's going on? With such a somber look... I wonder if I should talk to her...)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[8][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[8][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[8][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[8][1][1][1]",
+    "field": "text",
+    "original": "Whew...",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[9][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[9][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[9][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[9][1][1][1]",
+    "field": "text",
+    "original": "(Alright then!\\n If I just leave her like this, I won't stop wondering,\\n and won't be able to fall asleep.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[9][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[9][1][1][3]",
+    "field": "speechtext",
+    "original": "(Alright then! If I just leave her like this, I won't stop wondering, and won't be able to fall asleep.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[9][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[9][1][1][4]",
+    "field": "searchtext",
+    "original": "(Alright then! If I just leave her like this, I won't stop wondering, and won't be able to fall asleep.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[10][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[10][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[10][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[10][1][1][1]",
+    "field": "text",
+    "original": "Hey, Ichika.\\nWhat're you doing at this hour?\\nStargazing or something?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[10][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[10][1][1][3]",
+    "field": "speechtext",
+    "original": "Hey, Ichika.What're you doing at this hour?Stargazing or something?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[10][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[10][1][1][4]",
+    "field": "searchtext",
+    "original": "Hey, Ichika.What're you doing at this hour?Stargazing or something?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[11][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[11][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[11][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[11][1][1][1]",
+    "field": "text",
+    "original": "Wh-who's there?!",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[12][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[12][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[12][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[12][1][1][1]",
+    "field": "text",
+    "original": "It's me.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[13][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[13][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[13][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[13][1][1][1]",
+    "field": "text",
+    "original": "Oh, Futaro-kun.\\nDon't scare me like that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[13][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[13][1][1][3]",
+    "field": "speechtext",
+    "original": "Oh, Futaro-kun.Don't scare me like that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[13][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[13][1][1][4]",
+    "field": "searchtext",
+    "original": "Oh, Futaro-kun.Don't scare me like that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[14][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[14][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[14][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[14][1][1][1]",
+    "field": "text",
+    "original": "Sorry.\\nRight when I was about to go to bed,\\nI saw you walking outside from my window.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[14][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[14][1][1][3]",
+    "field": "speechtext",
+    "original": "Sorry.Right when I was about to go to bed,I saw you walking outside from my window.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[14][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[14][1][1][4]",
+    "field": "searchtext",
+    "original": "Sorry.Right when I was about to go to bed,I saw you walking outside from my window.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[15][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[15][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[15][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[15][1][1][1]",
+    "field": "text",
+    "original": "What do you think you're doing,\\nwandering around at this hour%p-2;――",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[15][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[15][1][1][3]",
+    "field": "speechtext",
+    "original": "What do you think you're doing,wandering around at this hour――",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[15][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[15][1][1][4]",
+    "field": "searchtext",
+    "original": "What do you think you're doing,wandering around at this hour――",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[16][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[16][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[16][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[16][1][1][1]",
+    "field": "text",
+    "original": "(Wait.\\n If I start interrogating her...\\n I need to be delicate here... Right?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[16][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[16][1][1][3]",
+    "field": "speechtext",
+    "original": "(Wait. If I start interrogating her... I need to be delicate here... Right?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[16][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[16][1][1][4]",
+    "field": "searchtext",
+    "original": "(Wait. If I start interrogating her... I need to be delicate here... Right?)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[17][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[17][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[17][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[17][1][1][1]",
+    "field": "text",
+    "original": "Um, ummmm!\\nAh, is there a star we can only see\\nat this time of year?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[17][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[17][1][1][3]",
+    "field": "speechtext",
+    "original": "Um, ummmm!Ah, is there a star we can only seeat this time of year?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[17][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[17][1][1][4]",
+    "field": "searchtext",
+    "original": "Um, ummmm!Ah, is there a star we can only seeat this time of year?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[18][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[18][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[18][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[18][1][1][1]",
+    "field": "text",
+    "original": "Let's see, constellations in this region,\\nat this time of year, hmmm...",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[18][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[18][1][1][3]",
+    "field": "speechtext",
+    "original": "Let's see, constellations in this region,at this time of year, hmmm...",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[18][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[18][1][1][4]",
+    "field": "searchtext",
+    "original": "Let's see, constellations in this region,at this time of year, hmmm...",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[19][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[19][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[19][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[19][1][1][1]",
+    "field": "text",
+    "original": "Futaro-kun, you sure do know your constellations.\\nThough it doesn't seem you'll put them on any tests.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[19][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[19][1][1][3]",
+    "field": "speechtext",
+    "original": "Futaro-kun, you sure do know your constellations.Though it doesn't seem you'll put them on any tests.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[19][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[19][1][1][4]",
+    "field": "searchtext",
+    "original": "Futaro-kun, you sure do know your constellations.Though it doesn't seem you'll put them on any tests.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[20][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[20][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[20][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[20][1][1][1]",
+    "field": "text",
+    "original": "I don't necessarily think that tests are everything,\\nyou know.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[20][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[20][1][1][3]",
+    "field": "speechtext",
+    "original": "I don't necessarily think that tests are everything,you know.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[20][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[20][1][1][4]",
+    "field": "searchtext",
+    "original": "I don't necessarily think that tests are everything,you know.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[21][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[21][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[21][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[21][1][1][1]",
+    "field": "text",
+    "original": "(...Though, my way of thinking changed\\n when I met these guys.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[21][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[21][1][1][3]",
+    "field": "speechtext",
+    "original": "(...Though, my way of thinking changed when I met these guys.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[21][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[21][1][1][4]",
+    "field": "searchtext",
+    "original": "(...Though, my way of thinking changed when I met these guys.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[22][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[22][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[22][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[22][1][1][1]",
+    "field": "text",
+    "original": "So, why do you know them so well?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[23][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[23][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[23][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[23][1][1][1]",
+    "field": "text",
+    "original": "It's general knowledge really not very impressive.\\nAnd well...maybe I'll get involved in astronomy\\nin the future, you know?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[23][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[23][1][1][3]",
+    "field": "speechtext",
+    "original": "It's general knowledge really not very impressive.And well...maybe I'll get involved in astronomyin the future, you know?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[23][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[23][1][1][4]",
+    "field": "searchtext",
+    "original": "It's general knowledge really not very impressive.And well...maybe I'll get involved in astronomyin the future, you know?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[24][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[24][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[24][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[24][1][1][1]",
+    "field": "text",
+    "original": "You, an astronomer?\\nI can't imagine that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[24][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[24][1][1][3]",
+    "field": "speechtext",
+    "original": "You, an astronomer?I can't imagine that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[24][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[24][1][1][4]",
+    "field": "searchtext",
+    "original": "You, an astronomer?I can't imagine that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[25][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[25][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[25][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[25][1][1][1]",
+    "field": "text",
+    "original": "I can only think of Scorpio\\nwhen it comes to summer stars.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[25][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[25][1][1][3]",
+    "field": "speechtext",
+    "original": "I can only think of Scorpiowhen it comes to summer stars.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[25][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[25][1][1][4]",
+    "field": "searchtext",
+    "original": "I can only think of Scorpiowhen it comes to summer stars.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[26][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[26][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[26][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[26][1][1][1]",
+    "field": "text",
+    "original": "No, no, the representative constellation\\nat this time of year\\nshould be the Great Summer Triangle.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[26][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[26][1][1][3]",
+    "field": "speechtext",
+    "original": "No, no, the representative constellationat this time of yearshould be the Great Summer Triangle.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[26][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[26][1][1][4]",
+    "field": "searchtext",
+    "original": "No, no, the representative constellationat this time of yearshould be the Great Summer Triangle.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[27][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[27][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[27][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[27][1][1][1]",
+    "field": "text",
+    "original": "The Great Summer Triangle constellation?\\nIs that famous?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[27][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[27][1][1][3]",
+    "field": "speechtext",
+    "original": "The Great Summer Triangle constellation?Is that famous?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[27][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[27][1][1][4]",
+    "field": "searchtext",
+    "original": "The Great Summer Triangle constellation?Is that famous?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[28][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[28][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[28][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[28][1][1][1]",
+    "field": "text",
+    "original": "Yes, but hold on.\\nThe Great Summer Triangle isn't a constellation.\\nHey, look in the direction I'm pointing.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[28][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[28][1][1][3]",
+    "field": "speechtext",
+    "original": "Yes, but hold on.The Great Summer Triangle isn't a constellation.Hey, look in the direction I'm pointing.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[28][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[28][1][1][4]",
+    "field": "searchtext",
+    "original": "Yes, but hold on.The Great Summer Triangle isn't a constellation.Hey, look in the direction I'm pointing.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[29][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[29][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[29][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[29][1][1][1]",
+    "field": "text",
+    "original": "There are some stars that look like a cross, right?\\nAmong them, Deneb is the bright star.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[29][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[29][1][1][3]",
+    "field": "speechtext",
+    "original": "There are some stars that look like a cross, right?Among them, Deneb is the bright star.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[29][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[29][1][1][4]",
+    "field": "searchtext",
+    "original": "There are some stars that look like a cross, right?Among them, Deneb is the bright star.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[30][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[30][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[30][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[30][1][1][1]",
+    "field": "text",
+    "original": "The other bright stars around it are\\nVega and Altair, which, when connected,\\nform the Great Summer Triangle.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[30][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[30][1][1][3]",
+    "field": "speechtext",
+    "original": "The other bright stars around it areVega and Altair, which, when connected,form the Great Summer Triangle.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[30][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[30][1][1][4]",
+    "field": "searchtext",
+    "original": "The other bright stars around it areVega and Altair, which, when connected,form the Great Summer Triangle.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[31][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[31][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[31][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[31][1][1][1]",
+    "field": "text",
+    "original": "Ahh, I see.\\nNow that I think about it,\\nit's looking more and more like a triangle to me.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[31][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[31][1][1][3]",
+    "field": "speechtext",
+    "original": "Ahh, I see.Now that I think about it,it's looking more and more like a triangle to me.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[31][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[31][1][1][4]",
+    "field": "searchtext",
+    "original": "Ahh, I see.Now that I think about it,it's looking more and more like a triangle to me.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[32][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[32][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[32][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[32][1][1][1]",
+    "field": "text",
+    "original": "The three stars in the triangle\\nare part of the\\nCygnus, Lyra, and Aquila constellations.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[32][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[32][1][1][3]",
+    "field": "speechtext",
+    "original": "The three stars in the triangleare part of theCygnus, Lyra, and Aquila constellations.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[32][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[32][1][1][4]",
+    "field": "searchtext",
+    "original": "The three stars in the triangleare part of theCygnus, Lyra, and Aquila constellations.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[33][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[33][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[33][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[33][1][1][1]",
+    "field": "text",
+    "original": "Wow...\\nSo each are stars in different constellations.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[33][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[33][1][1][3]",
+    "field": "speechtext",
+    "original": "Wow...So each are stars in different constellations.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[33][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[33][1][1][4]",
+    "field": "searchtext",
+    "original": "Wow...So each are stars in different constellations.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[34][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[34][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[34][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[34][1][1][1]",
+    "field": "text",
+    "original": "By the way, each of these stars each have another\\nname in Japanese.\\nThese names might make more sense to you.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[34][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[34][1][1][3]",
+    "field": "speechtext",
+    "original": "By the way, each of these stars each have anothername in Japanese.These names might make more sense to you.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[34][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[34][1][1][4]",
+    "field": "searchtext",
+    "original": "By the way, each of these stars each have anothername in Japanese.These names might make more sense to you.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[35][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[35][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[35][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[35][1][1][1]",
+    "field": "text",
+    "original": "Hmm? What are they?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[36][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[36][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[36][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[36][1][1][1]",
+    "field": "text",
+    "original": "Vega is Orihime-Boshi. That bright star, there.\\nAltair is Hikoboshi, over there.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[36][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[36][1][1][3]",
+    "field": "speechtext",
+    "original": "Vega is Orihime-Boshi. That bright star, there.Altair is Hikoboshi, over there.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[36][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[36][1][1][4]",
+    "field": "searchtext",
+    "original": "Vega is Orihime-Boshi. That bright star, there.Altair is Hikoboshi, over there.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[37][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[37][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[37][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[37][1][1][1]",
+    "field": "text",
+    "original": "Ah...\\nI see, I've heard about them,\\nbut this is the first time I've seen them like this.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[37][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[37][1][1][3]",
+    "field": "speechtext",
+    "original": "Ah...I see, I've heard about them,but this is the first time I've seen them like this.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[37][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[37][1][1][4]",
+    "field": "searchtext",
+    "original": "Ah...I see, I've heard about them,but this is the first time I've seen them like this.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[38][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[38][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[38][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[38][1][1][1]",
+    "field": "text",
+    "original": "It's hard to see even the brightest stars\\nin the city's summer night sky.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[38][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[38][1][1][3]",
+    "field": "speechtext",
+    "original": "It's hard to see even the brightest starsin the city's summer night sky.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[38][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[38][1][1][4]",
+    "field": "searchtext",
+    "original": "It's hard to see even the brightest starsin the city's summer night sky.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[39][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[39][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[39][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[39][1][1][1]",
+    "field": "text",
+    "original": "When you say Orihime and Hikoboshi,\\nI think of the Tanabata Legend.\\nA romantic tale, that happens once every year.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[39][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[39][1][1][3]",
+    "field": "speechtext",
+    "original": "When you say Orihime and Hikoboshi,I think of the Tanabata Legend.A romantic tale, that happens once every year.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[39][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[39][1][1][4]",
+    "field": "searchtext",
+    "original": "When you say Orihime and Hikoboshi,I think of the Tanabata Legend.A romantic tale, that happens once every year.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[40][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[40][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[40][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[40][1][1][1]",
+    "field": "text",
+    "original": "Yeah, yeah, romance.\\nI thought you'd say that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[40][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[40][1][1][3]",
+    "field": "speechtext",
+    "original": "Yeah, yeah, romance.I thought you'd say that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[40][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[40][1][1][4]",
+    "field": "searchtext",
+    "original": "Yeah, yeah, romance.I thought you'd say that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[41][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[41][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[41][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[41][1][1][1]",
+    "field": "text",
+    "original": "If you always taught me to study like that,\\nI'd be more interested.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[41][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[41][1][1][3]",
+    "field": "speechtext",
+    "original": "If you always taught me to study like that,I'd be more interested.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[41][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[41][1][1][4]",
+    "field": "searchtext",
+    "original": "If you always taught me to study like that,I'd be more interested.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[42][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[42][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[42][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[42][1][1][1]",
+    "field": "text",
+    "original": "I don't need any romanticism in my studies,\\nso that's impossible.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[42][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[42][1][1][3]",
+    "field": "speechtext",
+    "original": "I don't need any romanticism in my studies,so that's impossible.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[42][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[42][1][1][4]",
+    "field": "searchtext",
+    "original": "I don't need any romanticism in my studies,so that's impossible.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[43][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[43][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[43][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[43][1][1][1]",
+    "field": "text",
+    "original": "I know, riiight.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[44][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[44][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[44][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[44][1][1][1]",
+    "field": "text",
+    "original": "However,\\nsometimes there's romanticism in knowledge,\\nso you have to find that yourself.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[44][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[44][1][1][3]",
+    "field": "speechtext",
+    "original": "However,sometimes there's romanticism in knowledge,so you have to find that yourself.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[44][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[44][1][1][4]",
+    "field": "searchtext",
+    "original": "However,sometimes there's romanticism in knowledge,so you have to find that yourself.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[45][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[45][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[45][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[45][1][1][1]",
+    "field": "text",
+    "original": "Okay, I understand, Sensei.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[46][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[46][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[46][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[46][1][1][1]",
+    "field": "text",
+    "original": "But I feel I'll remember this forever.\\nOrihime and Hikoboshi,\\nstaring at each other from across the Milky Way.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[46][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[46][1][1][3]",
+    "field": "speechtext",
+    "original": "But I feel I'll remember this forever.Orihime and Hikoboshi,staring at each other from across the Milky Way.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[46][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[46][1][1][4]",
+    "field": "searchtext",
+    "original": "But I feel I'll remember this forever.Orihime and Hikoboshi,staring at each other from across the Milky Way.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[47][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[47][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[47][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[47][1][1][1]",
+    "field": "text",
+    "original": "Teehee!\\nI somehow feel better after hearing that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[47][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[47][1][1][3]",
+    "field": "speechtext",
+    "original": "Teehee!I somehow feel better after hearing that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[47][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[47][1][1][4]",
+    "field": "searchtext",
+    "original": "Teehee!I somehow feel better after hearing that.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[48][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[48][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[48][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[48][1][1][1]",
+    "field": "text",
+    "original": "So that means, you weren't feeling good.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[49][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[49][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[49][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[49][1][1][1]",
+    "field": "text",
+    "original": "...Ah.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[50][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[50][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[50][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[50][1][1][1]",
+    "field": "text",
+    "original": "Are you worried about something?",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[51][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[51][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[51][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[51][1][1][1]",
+    "field": "text",
+    "original": "No, I'm alright.\\nI was thinking about\\nwhat kind of things I'll do during my free time tomorrow.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[51][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[51][1][1][3]",
+    "field": "speechtext",
+    "original": "No, I'm alright.I was thinking aboutwhat kind of things I'll do during my free time tomorrow.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[51][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[51][1][1][4]",
+    "field": "searchtext",
+    "original": "No, I'm alright.I was thinking aboutwhat kind of things I'll do during my free time tomorrow.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[52][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[52][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[52][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[52][1][1][1]",
+    "field": "text",
+    "original": "...Is that so. Good, then.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[53][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[53][1][1][0]",
+    "field": "speaker",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[53][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[53][1][1][1]",
+    "field": "text",
+    "original": "I feel like I'll have good dreams because of you.\\nGood night then, Futaro-kun.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[53][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[53][1][1][3]",
+    "field": "speechtext",
+    "original": "I feel like I'll have good dreams because of you.Good night then, Futaro-kun.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[53][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[53][1][1][4]",
+    "field": "searchtext",
+    "original": "I feel like I'll have good dreams because of you.Good night then, Futaro-kun.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[54][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[54][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[54][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[54][1][1][1]",
+    "field": "text",
+    "original": "Yeah, good night.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[55][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[55][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[55][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[55][1][1][1]",
+    "field": "text",
+    "original": "......",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[56][1][1][0]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[56][1][1][0]",
+    "field": "speaker",
+    "original": "Futaro",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[56][1][1][1]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[56][1][1][1]",
+    "field": "text",
+    "original": "(Huh, I should get some sleep too.\\n Well, there's no use worrying about anything right now.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[56][1][1][3]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[56][1][1][3]",
+    "field": "speechtext",
+    "original": "(Huh, I should get some sleep too. Well, there's no use worrying about anything right now.)",
+    "translation": ""
+  },
+  {
+    "id": "ca01_01.txt.scn.m.json::$.scenes[0].texts[56][1][1][4]",
+    "file": "ca01_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[0].texts[56][1][1][4]",
+    "field": "searchtext",
+    "original": "(Huh, I should get some sleep too. Well, there's no use worrying about anything right now.)",
+    "translation": ""
+  }
+]

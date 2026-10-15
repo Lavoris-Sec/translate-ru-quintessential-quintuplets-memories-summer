@@ -1,0 +1,18 @@
+# Proprietary game data and local backups
+/goto01/
+/goto1/
+/backup/
+/build/
+/tools/
+
+# Generated archives and temporary verification data
+/verify-*/
+/*.psb.m
+/*.bin
+
+# Rebuildable full-text export
+/translation/goto01-english-catalog.json
+
+# Editor and OS files
+.DS_Store
+Thumbs.db

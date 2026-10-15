@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selectInfo.language[1].disp",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "field": "disp",
+    "original": "Ichika",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selectInfo.language[1].text",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "field": "text",
+    "original": "Hey, in that case, why don't we just swim for now?\\nIf we spend our time lazing around here,\\nit'd be a waste.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selectInfo.language[1].searchtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "field": "searchtext",
+    "original": "Hey, in that case, why don't we just swim for now?If we spend our time lazing around here,it'd be a waste.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selectInfo.language[1].speechtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "field": "speechtext",
+    "original": "Hey, in that case, why don't we just swim for now?If we spend our time lazing around here,it'd be a waste.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[0].language[1].text",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "field": "text",
+    "original": "No, let's make a firm plan.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[0].language[1].searchtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "field": "searchtext",
+    "original": "No, let's make a firm plan.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[0].language[1].speechtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "field": "speechtext",
+    "original": "No, let's make a firm plan.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[1].language[1].text",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "field": "text",
+    "original": "Let's do it.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[1].language[1].searchtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "field": "searchtext",
+    "original": "Let's do it.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[1].language[1].speechtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "field": "speechtext",
+    "original": "Let's do it.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[2].language[1].text",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "field": "text",
+    "original": "Yeah, I was just feeling like I'd like to swim.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[2].language[1].searchtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "field": "searchtext",
+    "original": "Yeah, I was just feeling like I'd like to swim.",
+    "translation": ""
+  },
+  {
+    "id": "ca01_02.txt.scn.m.json::$.scenes[1].selects[2].language[1].speechtext",
+    "file": "ca01_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "field": "speechtext",
+    "original": "Yeah, I was just feeling like I'd like to swim.",
+    "translation": ""
+  }
+]
