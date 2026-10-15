@@ -65,7 +65,21 @@ $patches = @(
   @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part1.json'},
   @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part2a.json'},
   @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part2b.json'},
-  @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part3.json'}
+  @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part3.json'},
+  @{f='ca01_04.txt.scn.m.json'; p='goto01-ca01_04-part1.json'},
+  @{f='ca01_04.txt.scn.m.json'; p='goto01-ca01_04-part2.json'},
+  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part1.json'},
+  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part2a.json'},
+  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part2b.json'},
+  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part3.json'},
+  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part1.json'},
+  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part2.json'},
+  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part3a.json'},
+  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part3b.json'},
+  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part4.json'},
+  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part1.json'},
+  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part2.json'},
+  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part3.json'}
 )
 foreach ($patch in $patches) {
   & "$repo\scripts\Apply-DialogueBlock.ps1" -ScenarioPath "$scenario\$($patch.f)" -TranslationsPath "$repo\translation\$($patch.p)"
