@@ -1,0 +1,20 @@
+[
+  {"scene":7,"text":0,"speaker":"Futaro","translation":"Правда?"},
+  {"scene":7,"text":1,"speaker":"Ichika","translation":"Что? Почему ты мне не веришь?"},
+  {"scene":7,"text":2,"speaker":"Futaro","translation":"Дело не в том, верю я тебе или нет."},
+  {"scene":7,"text":3,"speaker":"Ichika","translation":"Я же много болела за вас во время игры,\nверно?\nБудь мне скучно, я бы этого не делала."},
+  {"scene":7,"text":4,"speaker":"Ichika","translation":"Возможно, я кажусь скучающей, потому что не двигаюсь,\nно это не так, так что не волнуйся."},
+  {"scene":9,"text":0,"speaker":"Futaro","translation":"Быть судьёй и правда так весело?"},
+  {"scene":9,"text":1,"speaker":"Ichika","translation":"Да, можно сколько угодно смотреть\nна улыбки и расстроенные лица всех остальных.\nЭто роскошь — сидеть на особом месте."},
+  {"scene":9,"text":2,"speaker":"Futaro","translation":"Да, это точно.\nВ этом смысле место и правда особенное."},
+  {"scene":9,"text":3,"speaker":"Ichika","translation":"Вот именно.\nТак что мне совсем не скучно\nбыть судьёй."},
+  {"scene":9,"text":4,"speaker":"Futaro","translation":"Понятно..."},
+  {"scene":9,"text":5,"speaker":"Ichika","translation":"Футаро-кун, ты слишком переживаешь."},
+  {"scene":11,"text":0,"speaker":"Futaro","translation":"Ты ведь не притворяешься\nдаже сейчас, верно?"},
+  {"scene":11,"text":1,"speaker":"Ichika","translation":"Притворяюсь? О чём ты?"},
+  {"scene":11,"text":2,"speaker":"Futaro","translation":"Всем будет грустно,\nесли они узнают, что ты говорила, будто тебе весело,\nхотя это было не так."},
+  {"scene":11,"text":3,"speaker":"Futaro","translation":"Все хотят веселиться вместе с тобой, Итика,\nпоэтому и предложили прийти сюда."},
+  {"scene":11,"text":4,"speaker":"Ichika","translation":"Да, я это знаю."},
+  {"scene":11,"text":5,"speaker":"Ichika","translation":"Поэтому меня всё устраивает.\nМне сейчас правда очень весело."},
+  {"scene":11,"text":6,"speaker":"Futaro","translation":"......"}
+]

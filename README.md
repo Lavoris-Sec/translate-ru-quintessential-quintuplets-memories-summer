@@ -79,7 +79,14 @@ $patches = @(
   @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part4.json'},
   @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part1.json'},
   @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part2.json'},
-  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part3.json'}
+  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part3.json'},
+  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part1.json'},
+  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part2.json'},
+  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part3.json'},
+  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part4.json'},
+  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part5.json'},
+  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part6.json'},
+  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part7.json'}
 )
 foreach ($patch in $patches) {
   & "$repo\scripts\Apply-DialogueBlock.ps1" -ScenarioPath "$scenario\$($patch.f)" -TranslationsPath "$repo\translation\$($patch.p)"
