@@ -1,0 +1,15 @@
+[
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].disp","translation":"Итика"},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].text","translation":"Эй, тогда почему бы нам пока не поплавать?\\nЕсли просто сидеть здесь без дела, это будет пустой тратой времени."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].searchtext","translation":"Эй, тогда почему бы нам пока не поплавать? Если просто сидеть здесь без дела, это будет пустой тратой времени."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].speechtext","translation":"Эй, тогда почему бы нам пока не поплавать? Если просто сидеть здесь без дела, это будет пустой тратой времени."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].text","translation":"Нет, давай сначала всё чётко спланируем."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].searchtext","translation":"Нет, давай сначала всё чётко спланируем."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].speechtext","translation":"Нет, давай сначала всё чётко спланируем."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].text","translation":"Давай так и сделаем."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].searchtext","translation":"Давай так и сделаем."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].speechtext","translation":"Давай так и сделаем."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].text","translation":"Да, я как раз хотел поплавать."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].searchtext","translation":"Да, я как раз хотел поплавать."},
+  {"file":"ca01_02.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].speechtext","translation":"Да, я как раз хотел поплавать."}
+]
