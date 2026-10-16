@@ -1,0 +1,16 @@
+[
+  {"scene":2,"text":0,"speaker":"Futaro","translation":"Да, именно!"},
+  {"scene":2,"text":1,"speaker":"Ichika","translation":"Как я и думала.\nБоже, почему бы тебе не попытаться это СКРЫТЬ?"},
+  {"scene":2,"text":2,"speaker":"Futaro","translation":"Потом Ёцуба или кто-то ещё всё равно бы меня выдал.\nНо я не думал, что всё пройдёт настолько хорошо."},
+  {"scene":4,"text":0,"speaker":"Futaro","translation":"О чём ты говоришь?"},
+  {"scene":4,"text":1,"speaker":"Ichika","translation":"Ой, не прикидывайся дурачком!"},
+  {"scene":4,"text":2,"speaker":"Futaro","translation":"Нет-нет, я не прикидываюсь.\nКак ни посмотри, тебя ведь убедили\nименно твои сёстры, верно?"},
+  {"scene":4,"text":3,"speaker":"Ichika","translation":"Хм, наверное, так.\nТебе и правда не суждено быть зачинщиком."},
+  {"scene":6,"text":0,"speaker":"Futaro","translation":"Я лишь немного подсказал, вот и всё."},
+  {"scene":6,"text":1,"speaker":"Ichika","translation":"Ты просто пытаешься выглядеть круто."},
+  {"scene":6,"text":2,"speaker":"Futaro","translation":"Я в том же положении, что и ты.\nМеня просто увлёк их энтузиазм."},
+  {"scene":6,"text":3,"speaker":"Ichika","translation":"Ладно...\nПусть будет так."},
+  {"scene":7,"text":0,"speaker":"Itsuki","translation":"Тогда начнём фотосессию.\nПоторопимся, у нас осталась только половина дня."},
+  {"scene":7,"text":1,"speaker":"Ichika","translation":"Хорошо, доверяю это вам."},
+  {"scene":7,"text":2,"speaker":"Futaro","translation":"Да!"}
+]

@@ -4,7 +4,7 @@
 
 ## Готово
 
-Переведены `op_01` и сценарии первой главы: `ca01_01`–`ca01_08`.
+Переведены `op_01` и сценарии первой главы: `ca01_01`–`ca01_17`. `ca01_18` в работе.
 
 ## Что установить
 
@@ -91,7 +91,27 @@ $patches = @(
   @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part2.json'},
   @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part3.json'},
   @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part4.json'},
-  @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part5.json'}
+  @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part5.json'},
+  @{f='ca01_10.txt.scn.m.json'; p='goto01-ca01_10-part1.json'},
+  @{f='ca01_10.txt.scn.m.json'; p='goto01-ca01_10-part2.json'},
+  @{f='ca01_11.txt.scn.m.json'; p='goto01-ca01_11-part1.json'},
+  @{f='ca01_12.txt.scn.m.json'; p='goto01-ca01_12-part1.json'},
+  @{f='ca01_12.txt.scn.m.json'; p='goto01-ca01_12-part2.json'},
+  @{f='ca01_12.txt.scn.m.json'; p='goto01-ca01_12-part3.json'},
+  @{f='ca01_13.txt.scn.m.json'; p='goto01-ca01_13-part1.json'},
+  @{f='ca01_13.txt.scn.m.json'; p='goto01-ca01_13-part2.json'},
+  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part1.json'},
+  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part2.json'},
+  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part3.json'},
+  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part4.json'},
+  @{f='ca01_15.txt.scn.m.json'; p='goto01-ca01_15-part1.json'},
+  @{f='ca01_15.txt.scn.m.json'; p='goto01-ca01_15-part2.json'},
+  @{f='ca01_16.txt.scn.m.json'; p='goto01-ca01_16-part1.json'},
+  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part1.json'},
+  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part2.json'},
+  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part3.json'},
+  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part4.json'},
+  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part5.json'}
 )
 foreach ($patch in $patches) {
   & "$repo\scripts\Apply-DialogueBlock.ps1" -ScenarioPath "$scenario\$($patch.f)" -TranslationsPath "$repo\translation\$($patch.p)"
