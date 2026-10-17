@@ -4,7 +4,9 @@
 
 ## Готово
 
-Переведены `op_01` и все сценарии первой главы: `ca01_01`–`ca01_19`.
+Переведены `op_01`, все сценарии первой главы (`ca01_01`–`ca01_19`) и первые пять сценариев второй главы (`ca02_01`–`ca02_05`). В `ca02_06` готово 78 из 132 реплик.
+
+Осталось: закончить 54 реплики `ca02_06`, затем 19 сценариев второй главы (`ca02_07`–`ca02_25`) и главы 3–7 — ещё 115 сценариев. Всего после текущей точки: 134 полных сценария и оставшийся фрагмент `ca02_06`.
 
 ## Что установить
 
@@ -117,7 +119,19 @@ $patches = @(
   @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part3.json'},
   @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part4.json'},
   @{f='ca01_19.txt.scn.m.json'; p='goto01-ca01_19-part1.json'},
-  @{f='ca01_19.txt.scn.m.json'; p='goto01-ca01_19-part2.json'}
+  @{f='ca01_19.txt.scn.m.json'; p='goto01-ca01_19-part2.json'},
+  @{f='ca02_01.txt.scn.m.json'; p='goto01-ca02_01-part1.json'},
+  @{f='ca02_01.txt.scn.m.json'; p='goto01-ca02_01-part2.json'},
+  @{f='ca02_02.txt.scn.m.json'; p='goto01-ca02_02-part1.json'},
+  @{f='ca02_02.txt.scn.m.json'; p='goto01-ca02_02-part2.json'},
+  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part1.json'},
+  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part2.json'},
+  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part3.json'},
+  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part4.json'},
+  @{f='ca02_04.txt.scn.m.json'; p='goto01-ca02_04.json'},
+  @{f='ca02_05.txt.scn.m.json'; p='goto01-ca02_05.json'},
+  @{f='ca02_06.txt.scn.m.json'; p='goto01-ca02_06-part1.json'},
+  @{f='ca02_06.txt.scn.m.json'; p='goto01-ca02_06-part2.json'}
 )
 foreach ($patch in $patches) {
   & "$repo\scripts\Apply-DialogueBlock.ps1" -ScenarioPath "$scenario\$($patch.f)" -TranslationsPath "$repo\translation\$($patch.p)"
