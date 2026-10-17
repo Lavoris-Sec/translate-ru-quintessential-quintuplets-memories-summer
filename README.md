@@ -2,6 +2,9 @@
 
 Здесь находятся только скрипты и JSON-патчи перевода. Файлов игры, её архивов, резервных копий и сторонних утилит в репозитории нет.
 
+> [!IMPORTANT]
+> Это неофициальный некоммерческий патч. Он не содержит файлов игры и требует легальную Steam-копию. Все права на игру и её оригинальный текст принадлежат правообладателям. Если вы правообладатель и считаете, что материал нарушает ваши права, создайте issue или свяжитесь с владельцем репозитория — материал будет рассмотрен и при необходимости удалён.
+
 ## Готово
 
 Всего в игре 160 сценариев: вступление `op_01` и 159 сюжетных сценариев глав `ca01`–`ca07`.
@@ -49,6 +52,18 @@ $backup = 'D:\translate\goto-ru\backup\goto01-scenario-original'
 New-Item -ItemType Directory -Force $backup | Out-Null
 Copy-Item "$game\scenario_info.psb.m", "$game\scenario_body.bin" -Destination $backup
 ```
+
+## Возврат английского оригинала
+
+Закройте игру и восстановите два исходных файла из резервной копии:
+
+```powershell
+$game = 'W:\SteamLibrary\steamapps\common\goto01\windata'
+$backup = 'D:\translate\goto-ru\backup\goto01-scenario-original'
+Copy-Item "$backup\scenario_info.psb.m", "$backup\scenario_body.bin" -Destination $game -Force
+```
+
+Если резервной копии уже нет, в Steam откройте свойства игры → «Установленные файлы» → «Проверить целостность файлов». Steam заново загрузит оригинальные архивы.
 
 ## Распаковка
 
