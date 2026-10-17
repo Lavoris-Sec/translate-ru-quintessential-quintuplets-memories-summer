@@ -9,5 +9,8 @@
   ],
   "catalogs": [
     "goto01-ca01_02-choices.json"
+  ],
+  "interfaceCatalogs": [
+    "goto01-interface-system-text.json"
   ]
 }

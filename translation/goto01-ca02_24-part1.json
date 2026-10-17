@@ -1,0 +1,21 @@
+[
+  {"scene":0,"text":0,"speaker":"Футаро","translation":"Ах, у воды так прохладно!\nКак же хорошо!"},
+  {"scene":0,"text":1,"speaker":"Нино","translation":"......"},
+  {"scene":0,"text":2,"speaker":"Футаро","translation":"(Какая тяжёлая атмосфера.)"},
+  {"scene":0,"text":3,"speaker":"Футаро","translation":"(Н-нет, я очень рад, что она вышла из комнаты.\n Теперь моя очередь!)"},
+  {"scene":0,"text":4,"speaker":"Футаро","translation":"Нино."},
+  {"scene":0,"text":5,"speaker":"Нино","translation":"Что?"},
+  {"scene":0,"text":6,"speaker":"Футаро","translation":"Мне нужно с тобой поговорить."},
+  {"scene":0,"text":7,"speaker":"Нино","translation":"...Нам не нужна вода?"},
+  {"scene":0,"text":8,"speaker":"Футаро","translation":"Прости.\nЯ просто очень хотел спокойно с тобой поговорить.\nПоэтому мы и пришли сюда за водой."},
+  {"scene":0,"text":9,"speaker":"Нино","translation":"Я так и думала.\n...И? О чём ты хочешь поговорить?"},
+  {"scene":0,"text":10,"speaker":"Футаро","translation":"Ну... о том, что связано с «младшей сестрой»."},
+  {"scene":0,"text":11,"speaker":"Нино","translation":"...!"},
+  {"scene":0,"text":12,"speaker":"Футаро","translation":"Я весь день об этом думал.\nИ у остальных тоже спросил."},
+  {"scene":0,"text":13,"speaker":"Нино","translation":"......"},
+  {"scene":0,"text":14,"speaker":"Футаро","translation":"Я расскажу, что думаю.\nТы%p-2;――%p; восхищаешься тем, как быть младшей сестрой, да?\nТы вроде как хочешь стать второй Райхой."},
+  {"scene":0,"text":15,"speaker":"Нино","translation":"...Н-нет..."},
+  {"scene":0,"text":16,"speaker":"Футаро","translation":"Что?"},
+  {"scene":0,"text":17,"speaker":"Нино","translation":"М-м. Ничего.\nСначала я послушаю тебя."},
+  {"scene":0,"text":18,"speaker":"Футаро","translation":"%p-2;――%p; Если ты хочешь стать моей младшей сестрой,\nя хотел бы относиться к тебе как к младшей сестре."}
+]

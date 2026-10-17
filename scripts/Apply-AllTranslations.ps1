@@ -1,6 +1,7 @@
 param(
     [string]$RepositoryRoot = (Split-Path -Parent $PSScriptRoot),
-    [string]$ScenarioRoot
+    [string]$ScenarioRoot,
+    [string]$GameRoot
 )
 
 $ErrorActionPreference = 'Stop'
@@ -10,6 +11,10 @@ if (-not $ScenarioRoot) {
     $ScenarioRoot = Join-Path $RepositoryRoot 'work\goto01\scenario\scenario'
 }
 $ScenarioRoot = (Resolve-Path -LiteralPath $ScenarioRoot).Path
+if (-not $GameRoot) {
+    $GameRoot = Split-Path -Parent (Split-Path -Parent $ScenarioRoot)
+}
+$GameRoot = (Resolve-Path -LiteralPath $GameRoot).Path
 
 $translationRoot = Join-Path $RepositoryRoot 'translation'
 $manifestPath = Join-Path $translationRoot 'goto01-apply-manifest.json'
@@ -54,6 +59,14 @@ foreach ($catalog in @($manifest.catalogs)) {
     $catalogPath = Join-Path $translationRoot $catalog
     if (-not (Test-Path -LiteralPath $catalogPath)) { throw "Catalog file not found: $catalogPath" }
     & $catalogScript -ScenarioRoot $ScenarioRoot -CatalogPath $catalogPath
+}
+
+# Interface and system messages use the same English language slot as dialogue,
+# but live outside the scenario folder.
+foreach ($catalog in @($manifest.interfaceCatalogs)) {
+    $catalogPath = Join-Path $translationRoot $catalog
+    if (-not (Test-Path -LiteralPath $catalogPath)) { throw "Catalog file not found: $catalogPath" }
+    & $catalogScript -ScenarioRoot $GameRoot -CatalogPath $catalogPath
 }
 
 Write-Host "All translations have been applied."
