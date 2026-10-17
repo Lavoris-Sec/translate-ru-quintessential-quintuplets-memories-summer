@@ -1,0 +1,21 @@
+[
+  {"scene":4,"text":5,"speaker":"Нино","translation":"Спасибо, Фу-кун.\nЯ поняла."},
+  {"scene":6,"text":0,"speaker":"Футаро","translation":"Потому что я её старший брат."},
+  {"scene":6,"text":1,"speaker":"Нино","translation":"Потому что ты её старший брат?"},
+  {"scene":6,"text":2,"speaker":"Футаро","translation":"Как старший брат Райхи,\nя обязан сделать так, чтобы она была счастлива."},
+  {"scene":6,"text":3,"speaker":"Футаро","translation":"Поэтому, если у неё проблемы, я помогу ей\nи исполню любое её желание.\nВ этом и суть наших отношений."},
+  {"scene":6,"text":4,"speaker":"Нино","translation":"...Понятно, вот как.\nКак её старший брат... значит."},
+  {"scene":6,"text":5,"speaker":"Нино","translation":"Спасибо, Фу-кун.\nЯ поняла."},
+  {"scene":7,"text":0,"speaker":"Райха","translation":"Правда? Ты поняла?"},
+  {"scene":7,"text":1,"speaker":"Нино","translation":"Да, спасибо."},
+  {"scene":7,"text":2,"speaker":"Райха","translation":"Понятно!\nРада, что смогла помочь."},
+  {"scene":7,"text":3,"speaker":"Ицуки","translation":"......"},
+  {"scene":7,"text":4,"speaker":"Мику","translation":"Ицуки?"},
+  {"scene":7,"text":5,"speaker":"Ицуки","translation":"Эм, я вроде поняла...\nНо то, как Нино сейчас улыбается...\nМне кажется, в этом есть что-то странное..."},
+  {"scene":7,"text":6,"speaker":"Ичика","translation":"Хм, да, что-то не так."},
+  {"scene":7,"text":7,"speaker":"Мику","translation":"У неё глаза как-то заблестели."},
+  {"scene":7,"text":8,"speaker":"Ицуки","translation":"Надеюсь, мне просто кажется..."},
+  {"scene":7,"text":9,"speaker":"Ёцуба","translation":"О чём вы говорите?"},
+  {"scene":7,"text":10,"speaker":"Ицуки","translation":"Н-ничего!\nСовсем ничего!"},
+  {"scene":7,"text":11,"speaker":"Мику","translation":"...Правда, было бы хорошо, если бы это было ничто."}
+]
