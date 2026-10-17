@@ -1,0 +1,13 @@
+{
+  "openingPatches": [
+    "goto01-opening-test.json",
+    "goto01-op01-opening.json",
+    "goto01-op01-live-test.json",
+    "goto01-op01-dock-01.json",
+    "goto01-op01-dock-02.json",
+    "goto01-op01-dock-03.json"
+  ],
+  "catalogs": [
+    "goto01-ca01_02-choices.json"
+  ]
+}

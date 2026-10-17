@@ -51,6 +51,15 @@ $work = 'D:\translate\goto-ru\work\goto01\scenario'
 
 ## Применение переводов
 
+После распаковки достаточно одной команды: скрипт применит вступление в заданном порядке, сам найдёт все сценарные патчи `goto01-caNN_NN-*.json` и добавит переводы из каталогов. При появлении новых глав инструкцию менять не нужно.
+
+```powershell
+$repo = 'D:\translate\goto-ru'
+& "$repo\scripts\Apply-AllTranslations.ps1"
+```
+
+Ниже оставлен старый ручной список как справка для проверки и нестандартных случаев. Новые патчи в него добавлять не требуется.
+
 ```powershell
 $repo = 'D:\translate\goto-ru'
 $scenario = 'D:\translate\goto-ru\work\goto01\scenario\scenario'
