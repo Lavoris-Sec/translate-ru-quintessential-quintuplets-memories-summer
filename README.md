@@ -4,7 +4,7 @@
 
 ## Готово
 
-Переведены `op_01` и сценарии первой главы: `ca01_01`–`ca01_17`. `ca01_18` в работе.
+Переведены `op_01` и все сценарии первой главы: `ca01_01`–`ca01_19`.
 
 ## Что установить
 
@@ -111,7 +111,13 @@ $patches = @(
   @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part2.json'},
   @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part3.json'},
   @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part4.json'},
-  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part5.json'}
+  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part5.json'},
+  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part1.json'},
+  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part2.json'},
+  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part3.json'},
+  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part4.json'},
+  @{f='ca01_19.txt.scn.m.json'; p='goto01-ca01_19-part1.json'},
+  @{f='ca01_19.txt.scn.m.json'; p='goto01-ca01_19-part2.json'}
 )
 foreach ($patch in $patches) {
   & "$repo\scripts\Apply-DialogueBlock.ps1" -ScenarioPath "$scenario\$($patch.f)" -TranslationsPath "$repo\translation\$($patch.p)"
