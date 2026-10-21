@@ -16,3 +16,6 @@
 # Editor and OS files
 .DS_Store
 Thumbs.db
+
+# Local handoff notes for Codex sessions
+CONTINUATION.md
