@@ -41,6 +41,10 @@ foreach ($patch in @($manifest.openingPatches)) {
     Apply-DialoguePatch -ScenarioFile 'op_01.txt.scn.m.json' -PatchFile $patch
 }
 
+foreach ($patch in @($manifest.prologuePatches)) {
+    Apply-DialoguePatch -ScenarioFile $patch.scenario -PatchFile $patch.patch
+}
+
 # Every chapter patch follows goto01-caNN_NN-*.json and is applied alphabetically.
 # New translation patches therefore need no README or script edits.
 $chapterPatches = @(Get-ChildItem -LiteralPath $translationRoot -File -Filter 'goto01-ca*.json' |

@@ -7,8 +7,17 @@
     "goto01-op01-dock-02.json",
     "goto01-op01-dock-03.json"
   ],
+  "prologuePatches": [
+    {"scenario": "op_02.txt.scn.m.json", "patch": "goto01-op02.json"},
+    {"scenario": "op_03.txt.scn.m.json", "patch": "goto01-op03-part1.json"},
+    {"scenario": "op_03.txt.scn.m.json", "patch": "goto01-op03-part2.json"},
+    {"scenario": "op_04.txt.scn.m.json", "patch": "goto01-op04.json"},
+    {"scenario": "op_05.txt.scn.m.json", "patch": "goto01-op05-part1.json"},
+    {"scenario": "op_05.txt.scn.m.json", "patch": "goto01-op05-part2.json"}
+  ],
   "catalogs": [
-    "goto01-ca01_02-choices.json"
+    "goto01-ca01_02-choices.json",
+    "goto01-op03-choices.json"
   ],
   "interfaceCatalogs": [
     "goto01-interface-system-text.json"

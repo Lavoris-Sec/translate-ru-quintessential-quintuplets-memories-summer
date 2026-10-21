@@ -1,0 +1,20 @@
+[
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[0].language[1].searchtext","translation":"А, точно."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[0].language[1].speechtext","translation":"А, точно."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[0].language[1].text","translation":"А, точно."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[1].language[1].searchtext","translation":"Взамен я как следует буду вас учить."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[1].language[1].speechtext","translation":"Взамен я как следует буду вас учить."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[1].language[1].text","translation":"Взамен я как следует буду вас учить."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[2].language[1].searchtext","translation":"С нетерпением жду ужина."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[2].language[1].speechtext","translation":"С нетерпением жду ужина."},
+  {"file":"op_03.txt.scn.m.json","jsonPath":"$.selects[2].language[1].text","translation":"С нетерпением жду ужина."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[0].language[1].searchtext","translation":"А, точно."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[0].language[1].speechtext","translation":"А, точно."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[0].language[1].text","translation":"А, точно."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[1].language[1].searchtext","translation":"Взамен я как следует буду вас учить."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[1].language[1].speechtext","translation":"Взамен я как следует буду вас учить."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[1].language[1].text","translation":"Взамен я как следует буду вас учить."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[2].language[1].searchtext","translation":"С нетерпением жду ужина."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[2].language[1].speechtext","translation":"С нетерпением жду ужина."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[827].selects[2].language[1].text","translation":"С нетерпением жду ужина."}
+]
