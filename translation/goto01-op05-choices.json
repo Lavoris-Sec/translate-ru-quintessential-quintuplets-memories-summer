@@ -1,0 +1,20 @@
+[
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].searchtext","translation":"Успокойтесь, крики не помогут."},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].speechtext","translation":"Успокойтесь, крики не помогут."},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].text","translation":"Успокойтесь, крики не помогут."},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].searchtext","translation":"О НЕТ!"},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].speechtext","translation":"О НЕТ!"},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].text","translation":"О НЕТ!"},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].searchtext","translation":"Не верится, что я втянул в это Райху..."},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].speechtext","translation":"Не верится, что я втянул в это Райху..."},
+  {"file":"op_05.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].text","translation":"Не верится, что я втянул в это Райху..."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[0].language[1].searchtext","translation":"Успокойтесь, крики не помогут."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[0].language[1].speechtext","translation":"Успокойтесь, крики не помогут."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[0].language[1].text","translation":"Успокойтесь, крики не помогут."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[1].language[1].searchtext","translation":"О НЕТ!"},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[1].language[1].speechtext","translation":"О НЕТ!"},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[1].language[1].text","translation":"О НЕТ!"},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[2].language[1].searchtext","translation":"Не верится, что я втянул в это Райху..."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[2].language[1].speechtext","translation":"Не верится, что я втянул в это Райху..."},
+  {"file":"scenelist.scn.m.json","jsonPath":"$.list[836].selects[2].language[1].text","translation":"Не верится, что я втянул в это Райху..."}
+]

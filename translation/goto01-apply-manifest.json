@@ -17,7 +17,8 @@
   ],
   "catalogs": [
     "goto01-ca01_02-choices.json",
-    "goto01-op03-choices.json"
+    "goto01-op03-choices.json",
+    "goto01-op05-choices.json"
   ],
   "interfaceCatalogs": [
     "goto01-interface-system-text.json"
