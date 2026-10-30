@@ -1,0 +1,20 @@
+[
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].text","translation":"Посмотреть обучение?"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].searchtext","translation":"Посмотреть обучение?"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].speechtext","translation":"Посмотреть обучение?"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].text","translation":"Посмотреть обучение"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].searchtext","translation":"Посмотреть обучение"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].speechtext","translation":"Посмотреть обучение"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].text","translation":"Пропустить обучение"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].searchtext","translation":"Пропустить обучение"},
+ {"file":"tu01_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].speechtext","translation":"Пропустить обучение"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].text","translation":"Посмотреть обучение по составлению расписания?"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].searchtext","translation":"Посмотреть обучение по составлению расписания?"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].speechtext","translation":"Посмотреть обучение по составлению расписания?"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].text","translation":"Посмотреть обучение"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].searchtext","translation":"Посмотреть обучение"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].speechtext","translation":"Посмотреть обучение"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].text","translation":"Пропустить обучение"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].searchtext","translation":"Пропустить обучение"},
+ {"file":"tu02_01.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].speechtext","translation":"Пропустить обучение"}
+]

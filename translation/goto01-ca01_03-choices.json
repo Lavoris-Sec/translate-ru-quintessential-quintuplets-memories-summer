@@ -1,0 +1,15 @@
+[
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].disp","translation":"Итика"},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].text","translation":"Не дави на больное."},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].searchtext","translation":"Не дави на больное."},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selectInfo.language[1].speechtext","translation":"Не дави на больное."},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].text","translation":"Отложи уже свой телефон."},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].searchtext","translation":"Отложи уже свой телефон."},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[0].language[1].speechtext","translation":"Отложи уже свой телефон."},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].text","translation":"Разве не ты предложила сюда прийти?"},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].searchtext","translation":"Разве не ты предложила сюда прийти?"},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[1].language[1].speechtext","translation":"Разве не ты предложила сюда прийти?"},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].text","translation":"Ты хорошо себя чувствуешь?"},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].searchtext","translation":"Ты хорошо себя чувствуешь?"},
+  {"file":"ca01_03.txt.scn.m.json","jsonPath":"$.scenes[1].selects[2].language[1].speechtext","translation":"Ты хорошо себя чувствуешь?"}
+]

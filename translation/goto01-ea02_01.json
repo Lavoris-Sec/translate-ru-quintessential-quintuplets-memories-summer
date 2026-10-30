@@ -1,0 +1,10 @@
+[
+ {"scene":0,"text":0,"speaker":"Ицуки","translation":"Ну что, пора есть!"},
+ {"scene":0,"text":1,"speaker":"Нино","translation":"Подожди. Не ешь."},
+ {"scene":0,"text":2,"speaker":"Ицуки","translation":"А? Почему?\\nПодождать, пока остынет?"},
+ {"scene":0,"text":3,"speaker":"Нино","translation":"Не получилось.\\nКуски неровные и плохо прожарились.\\nОни почти сырые."},
+ {"scene":0,"text":4,"speaker":"Ицуки","translation":"Понятно...\\nХотя пахнет ТАК вкусно."},
+ {"scene":0,"text":5,"speaker":"Нино","translation":"Я сказала, не ешь!\\nМожешь отравиться."},
+ {"scene":0,"text":6,"speaker":"Райха","translation":"Ладно, попробую пожарить ещё раз."},
+ {"scene":0,"text":7,"speaker":"Футаро","translation":"Прости, Райха..."}
+]

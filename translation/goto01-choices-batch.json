@@ -1,0 +1,3187 @@
+[
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Пусть это останется нашим маленьким секретом, ладно? Только между нами."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Пусть это останется нашим маленьким секретом, ладно? Только между нами."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Пусть это останется нашим маленьким секретом, ладно? Только между нами."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Не знаю, стоит ли..."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Не знаю, стоит ли..."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Не знаю, стоит ли..."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "...Ладно."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "...Ладно."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "...Ладно."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Все за тебя волнуются, знаешь ли."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Все за тебя волнуются, знаешь ли."
+  },
+  {
+    "file": "ca01_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Все за тебя волнуются, знаешь ли."
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selectInfo.language[1].text",
+    "translation": "Всё в порядке. Мне интересно и просто смотреть, как вы играете. Я по-своему развлекаюсь, так что не волнуйся."
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selectInfo.language[1].searchtext",
+    "translation": "Всё в порядке. Мне интересно и просто смотреть, как вы играете. Я по-своему развлекаюсь, так что не волнуйся."
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selectInfo.language[1].speechtext",
+    "translation": "Всё в порядке. Мне интересно и просто смотреть, как вы играете. Я по-своему развлекаюсь, так что не волнуйся."
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[0].language[1].text",
+    "translation": "Правда?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[0].language[1].searchtext",
+    "translation": "Правда?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[0].language[1].speechtext",
+    "translation": "Правда?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[1].language[1].text",
+    "translation": "Тебе и правда так нравится судить?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[1].language[1].searchtext",
+    "translation": "Тебе и правда так нравится судить?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[1].language[1].speechtext",
+    "translation": "Тебе и правда так нравится судить?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[2].language[1].text",
+    "translation": "Ты ведь не притворяешься?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[2].language[1].searchtext",
+    "translation": "Ты ведь не притворяешься?"
+  },
+  {
+    "file": "ca01_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[6].selects[2].language[1].speechtext",
+    "translation": "Ты ведь не притворяешься?"
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Тогда давайте сделаем соблазнительные снимки, а моделью будет Футаро-кун!"
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Тогда давайте сделаем соблазнительные снимки, а моделью будет Футаро-кун!"
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Тогда давайте сделаем соблазнительные снимки, а моделью будет Футаро-кун!"
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Тогда покажи, как это делается."
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Тогда покажи, как это делается."
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Тогда покажи, как это делается."
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Назови хоть одну причину, почему я должен согласиться."
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Назови хоть одну причину, почему я должен согласиться."
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Назови хоть одну причину, почему я должен согласиться."
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Ладно, только сумей раскрыть моё обаяние, хорошо?"
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Ладно, только сумей раскрыть моё обаяние, хорошо?"
+  },
+  {
+    "file": "ca01_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Ладно, только сумей раскрыть моё обаяние, хорошо?"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Это была твоя идея, да, Футаро-кун?"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Это была твоя идея, да, Футаро-кун?"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Это была твоя идея, да, Футаро-кун?"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Да, верно!"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Да, верно!"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Да, верно!"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "О чём ты?"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "О чём ты?"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "О чём ты?"
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я всего лишь кое-что предложил."
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я всего лишь кое-что предложил."
+  },
+  {
+    "file": "ca01_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я всего лишь кое-что предложил."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "(И-Итика?)"
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "(И-Итика?)"
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "(И-Итика?)"
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Просыпайся. Перерыв закончился."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Просыпайся. Перерыв закончился."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Просыпайся. Перерыв закончился."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Ладно, я пойду..."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Ладно, я пойду..."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Ладно, я пойду..."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Спи дальше."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Спи дальше."
+  },
+  {
+    "file": "ca01_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Спи дальше."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Но в такие моменты мужчина должен брать инициативу на себя."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Но в такие моменты мужчина должен брать инициативу на себя."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Но в такие моменты мужчина должен брать инициативу на себя."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ничего не могу поделать..."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ничего не могу поделать..."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ничего не могу поделать..."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Здесь я положусь на тебя."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Здесь я положусь на тебя."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Здесь я положусь на тебя."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Когда вернёмся, я всё изучу."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Когда вернёмся, я всё изучу."
+  },
+  {
+    "file": "ca01_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Когда вернёмся, я всё изучу."
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Нападение исподтишка! Как подло! У меня же ТОЧНО было странное лицо!"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Нападение исподтишка! Как подло! У меня же ТОЧНО было странное лицо!"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Нападение исподтишка! Как подло! У меня же ТОЧНО было странное лицо!"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Надо бежать!"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Надо бежать!"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Надо бежать!"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Ты ведь тоже фотографировала?"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Ты ведь тоже фотографировала?"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Ты ведь тоже фотографировала?"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Мы оставим снимки как есть, да?"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Мы оставим снимки как есть, да?"
+  },
+  {
+    "file": "ca01_18.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Мы оставим снимки как есть, да?"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Почему, спрашиваешь? Потому что другого способа у нас нет."
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Почему, спрашиваешь? Потому что другого способа у нас нет."
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Почему, спрашиваешь? Потому что другого способа у нас нет."
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "У меня нет температуры! Быть не может!"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "У меня нет температуры! Быть не может!"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "У меня нет температуры! Быть не может!"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Проверь рукой!"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Проверь рукой!"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Проверь рукой!"
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Если я простудился, дело плохо."
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Если я простудился, дело плохо."
+  },
+  {
+    "file": "ca02_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Если я простудился, дело плохо."
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selectInfo.language[1].text",
+    "translation": "Ну, потому что я замерзаю."
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selectInfo.language[1].searchtext",
+    "translation": "Ну, потому что я замерзаю."
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selectInfo.language[1].speechtext",
+    "translation": "Ну, потому что я замерзаю."
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[0].language[1].text",
+    "translation": "Я ведь тоже замёрзну."
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[0].language[1].searchtext",
+    "translation": "Я ведь тоже замёрзну."
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[0].language[1].speechtext",
+    "translation": "Я ведь тоже замёрзну."
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[1].language[1].text",
+    "translation": "Давай вернёмся, ладно?"
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[1].language[1].searchtext",
+    "translation": "Давай вернёмся, ладно?"
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[1].language[1].speechtext",
+    "translation": "Давай вернёмся, ладно?"
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[2].language[1].text",
+    "translation": "Да, ты и правда холодная. Всё в порядке?"
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[2].language[1].searchtext",
+    "translation": "Да, ты и правда холодная. Всё в порядке?"
+  },
+  {
+    "file": "ca02_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[5].selects[2].language[1].speechtext",
+    "translation": "Да, ты и правда холодная. Всё в порядке?"
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selectInfo.language[1].text",
+    "translation": "Если думаешь, что можешь догадаться, почему бы тебе как следует не подумать?"
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selectInfo.language[1].searchtext",
+    "translation": "Если думаешь, что можешь догадаться, почему бы тебе как следует не подумать?"
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selectInfo.language[1].speechtext",
+    "translation": "Если думаешь, что можешь догадаться, почему бы тебе как следует не подумать?"
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[0].language[1].text",
+    "translation": "Тебе стоит пересмотреть своё представление о принцах."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[0].language[1].searchtext",
+    "translation": "Тебе стоит пересмотреть своё представление о принцах."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[0].language[1].speechtext",
+    "translation": "Тебе стоит пересмотреть своё представление о принцах."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[1].language[1].text",
+    "translation": "Понятия не имею."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[1].language[1].searchtext",
+    "translation": "Понятия не имею."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[1].language[1].speechtext",
+    "translation": "Понятия не имею."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[2].language[1].text",
+    "translation": "Ты с ума сошла."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[2].language[1].searchtext",
+    "translation": "Ты с ума сошла."
+  },
+  {
+    "file": "ca02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[4].selects[2].language[1].speechtext",
+    "translation": "Ты с ума сошла."
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Эй, Нино."
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Эй, Нино."
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Эй, Нино."
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ты странно себя ведёшь."
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ты странно себя ведёшь."
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ты странно себя ведёшь."
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Тебе весело этим заниматься?"
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Тебе весело этим заниматься?"
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Тебе весело этим заниматься?"
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Тебе нравится исследовать новые места, да?"
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Тебе нравится исследовать новые места, да?"
+  },
+  {
+    "file": "ca02_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Тебе нравится исследовать новые места, да?"
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Райха-тян очень дорога тебе, Фу-кун. Я поняла это, просто слушая тебя."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Райха-тян очень дорога тебе, Фу-кун. Я поняла это, просто слушая тебя."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Райха-тян очень дорога тебе, Фу-кун. Я поняла это, просто слушая тебя."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Что, ты тоже ревнуешь?"
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Что, ты тоже ревнуешь?"
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Что, ты тоже ревнуешь?"
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Само собой."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Само собой."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Само собой."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Потому что я её старший брат."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Потому что я её старший брат."
+  },
+  {
+    "file": "ca02_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Потому что я её старший брат."
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Что-то случилось, братик?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Что-то случилось, братик?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Что-то случилось, братик?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ч-что ты сейчас сказала?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ч-что ты сейчас сказала?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ч-что ты сейчас сказала?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "...Прости, не могла бы ты повторить?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "...Прости, не могла бы ты повторить?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "...Прости, не могла бы ты повторить?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я-я ведь и правда замечательный, ДА?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я-я ведь и правда замечательный, ДА?"
+  },
+  {
+    "file": "ca02_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я-я ведь и правда замечательный, ДА?"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "...Это ТЫ виноват, Фу-кун! Во всём! Виноват! ТЫ!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "...Это ТЫ виноват, Фу-кун! Во всём! Виноват! ТЫ!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "...Это ТЫ виноват, Фу-кун! Во всём! Виноват! ТЫ!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Что я сделал не так?!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Что я сделал не так?!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Что я сделал не так?!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Я понимаю, что ты чувствуешь."
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Я понимаю, что ты чувствуешь."
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Я понимаю, что ты чувствуешь."
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Скажи почему!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Скажи почему!"
+  },
+  {
+    "file": "ca02_24.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Скажи почему!"
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Райха"
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Эээ? В такой момент надо говорить: «Я тоже помогу!», знаешь ли!"
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Эээ? В такой момент надо говорить: «Я тоже помогу!», знаешь ли!"
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Эээ? В такой момент надо говорить: «Я тоже помогу!», знаешь ли!"
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Она сказала, что я могу просто смотреть."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Она сказала, что я могу просто смотреть."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Она сказала, что я могу просто смотреть."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Надо было хоть немного помочь."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Надо было хоть немного помочь."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Надо было хоть немного помочь."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Вообще-то за этим было так интересно наблюдать."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Вообще-то за этим было так интересно наблюдать."
+  },
+  {
+    "file": "ca03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Вообще-то за этим было так интересно наблюдать."
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Это я понял! Дай подумать%p-2;――"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Это я понял! Дай подумать――"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Это я понял! Дай подумать――"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "...Я тоже не против любого варианта."
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "...Я тоже не против любого варианта."
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "...Я тоже не против любого варианта."
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Горы подойдут, верно?"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Горы подойдут, верно?"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Горы подойдут, верно?"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "А что мы будем делать в горах?"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "А что мы будем делать в горах?"
+  },
+  {
+    "file": "ca03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "А что мы будем делать в горах?"
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Мику"
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "...Спасибо. Ты и правда добрый, Футаро."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "...Спасибо. Ты и правда добрый, Футаро."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "...Спасибо. Ты и правда добрый, Футаро."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Хех, не недооценивай меня."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Хех, не недооценивай меня."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Хех, не недооценивай меня."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "О чём ты?"
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "О чём ты?"
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "О чём ты?"
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Ты куда добрее меня."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Ты куда добрее меня."
+  },
+  {
+    "file": "ca03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Ты куда добрее меня."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Райха"
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Хорошо."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Хорошо."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Хорошо."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Эта птица совсем утратила дикие инстинкты."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Эта птица совсем утратила дикие инстинкты."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Эта птица совсем утратила дикие инстинкты."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Тебе не страшно, Мику?"
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Тебе не страшно, Мику?"
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Тебе не страшно, Мику?"
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Кажется, ты очень понравилась этой птице, Мику."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Кажется, ты очень понравилась этой птице, Мику."
+  },
+  {
+    "file": "ca03_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Кажется, ты очень понравилась этой птице, Мику."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Мику"
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Правда, ничего такого. Не волнуйся."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Правда, ничего такого. Не волнуйся."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Правда, ничего такого. Не волнуйся."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Не похоже, что всё в порядке."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Не похоже, что всё в порядке."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Не похоже, что всё в порядке."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "...Ладно. Если ты так говоришь."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "...Ладно. Если ты так говоришь."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "...Ладно. Если ты так говоришь."
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Если что-то случится, скажи мне, хорошо?"
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Если что-то случится, скажи мне, хорошо?"
+  },
+  {
+    "file": "ca03_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Если что-то случится, скажи мне, хорошо?"
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Мику"
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Это всё, о чём ты хотел поговорить? Я хочу побыть одна."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Это всё, о чём ты хотел поговорить? Я хочу побыть одна."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Это всё, о чём ты хотел поговорить? Я хочу побыть одна."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Извини, но это не обсуждается."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Извини, но это не обсуждается."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Извини, но это не обсуждается."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "...Я не уйду."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "...Я не уйду."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "...Я не уйду."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я не могу оставить тебя здесь одну."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я не могу оставить тебя здесь одну."
+  },
+  {
+    "file": "ca03_13.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я не могу оставить тебя здесь одну."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Мику"
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Тогда хорошо."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Тогда хорошо."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Тогда хорошо."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "...Думаю, со мной всё будет в порядке."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "...Думаю, со мной всё будет в порядке."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "...Думаю, со мной всё будет в порядке."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Правда, всё, что ты приготовила, было вкусно."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Правда, всё, что ты приготовила, было вкусно."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Правда, всё, что ты приготовила, было вкусно."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Из-за безделья ты потеряла сноровку."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Из-за безделья ты потеряла сноровку."
+  },
+  {
+    "file": "ca03_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Из-за безделья ты потеряла сноровку."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Но когда вы пришли мне на помощь, Уэсуги-сан, вы выглядели так круто... Вспоминаю и улыбаюсь."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Но когда вы пришли мне на помощь, Уэсуги-сан, вы выглядели так круто... Вспоминаю и улыбаюсь."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Но когда вы пришли мне на помощь, Уэсуги-сан, вы выглядели так круто... Вспоминаю и улыбаюсь."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Значит, я выглядел круто..."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Значит, я выглядел круто..."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Значит, я выглядел круто..."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Ты точно раскаиваешься в том, что сделала?"
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Ты точно раскаиваешься в том, что сделала?"
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Ты точно раскаиваешься в том, что сделала?"
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я рад, что смог тебе помочь."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я рад, что смог тебе помочь."
+  },
+  {
+    "file": "ca04_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я рад, что смог тебе помочь."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "А? Эм, интересно, что лучше... Ха-ха..."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "А? Эм, интересно, что лучше... Ха-ха..."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "А? Эм, интересно, что лучше... Ха-ха..."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Давай, решай скорее."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Давай, решай скорее."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Давай, решай скорее."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Тебе решать."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Тебе решать."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Тебе решать."
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Не можешь выбрать? Как насчёт пляжа?"
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Не можешь выбрать? Как насчёт пляжа?"
+  },
+  {
+    "file": "ca04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Не можешь выбрать? Как насчёт пляжа?"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "ЧЕГООО?!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "ЧЕГООО?!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "ЧЕГООО?!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Пора выпустить пар!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Пора выпустить пар!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Пора выпустить пар!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Таковы установленные правила."
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Таковы установленные правила."
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Таковы установленные правила."
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Сейчас я покажу своё великолепное стрелковое мастерство!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Сейчас я покажу своё великолепное стрелковое мастерство!"
+  },
+  {
+    "file": "ca04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Сейчас я покажу своё великолепное стрелковое мастерство!"
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Н-но..."
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Н-но..."
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Н-но..."
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Не стесняйся."
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Не стесняйся."
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Не стесняйся."
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "В этом ведь вся прелесть, разве нет?"
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "В этом ведь вся прелесть, разве нет?"
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "В этом ведь вся прелесть, разве нет?"
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Райха расстроится, верно?"
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Райха расстроится, верно?"
+  },
+  {
+    "file": "ca04_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Райха расстроится, верно?"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Точно, такой шанс выпадает нечасто! Давайте подойдём поближе!"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Точно, такой шанс выпадает нечасто! Давайте подойдём поближе!"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Точно, такой шанс выпадает нечасто! Давайте подойдём поближе!"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Нет, слишком близко подходить опасно."
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Нет, слишком близко подходить опасно."
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Нет, слишком близко подходить опасно."
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Только немножко, ладно?"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Только немножко, ладно?"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Только немножко, ладно?"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Да, такой шанс нельзя упускать!"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Да, такой шанс нельзя упускать!"
+  },
+  {
+    "file": "ca04_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Да, такой шанс нельзя упускать!"
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "...Хе-хе. Ваш живот всегда вовремя подаёт сигнал, Уэсуги-сан."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "...Хе-хе. Ваш живот всегда вовремя подаёт сигнал, Уэсуги-сан."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "...Хе-хе. Ваш живот всегда вовремя подаёт сигнал, Уэсуги-сан."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Не смейся, это вполне естественно."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Не смейся, это вполне естественно."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Не смейся, это вполне естественно."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Извини за это."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Извини за это."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Извини за это."
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "А ты не голодна?"
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "А ты не голодна?"
+  },
+  {
+    "file": "ca04_11.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "А ты не голодна?"
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Поэтому мы должны изгнать здешнего призрака и защитить всех!"
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Поэтому мы должны изгнать здешнего призрака и защитить всех!"
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Поэтому мы должны изгнать здешнего призрака и защитить всех!"
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Да ладно, это не может быть призрак."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Да ладно, это не может быть призрак."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Да ладно, это не может быть призрак."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Тебе стоит лучше заботиться о себе."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Тебе стоит лучше заботиться о себе."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Тебе стоит лучше заботиться о себе."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Ладно, тогда я тебя защищу."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Ладно, тогда я тебя защищу."
+  },
+  {
+    "file": "ca04_15.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Ладно, тогда я тебя защищу."
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Падение, а потом громкий ПЛЮХ! Прямо как в манге, правда, Уэсуги-сан? Было так весело!"
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Падение, а потом громкий ПЛЮХ! Прямо как в манге, правда, Уэсуги-сан? Было так весело!"
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Падение, а потом громкий ПЛЮХ! Прямо как в манге, правда, Уэсуги-сан? Было так весело!"
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Пожалуйста, не пугай меня так..."
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Пожалуйста, не пугай меня так..."
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Пожалуйста, не пугай меня так..."
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Похоже, срезать дорогу было хорошей идеей."
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Похоже, срезать дорогу было хорошей идеей."
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Похоже, срезать дорогу было хорошей идеей."
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Было весело!"
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Было весело!"
+  },
+  {
+    "file": "ca04_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Было весело!"
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "А, в таком случае я пообещала угостить всех сладостями в извинение за то, что заставила их волноваться..."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "А, в таком случае я пообещала угостить всех сладостями в извинение за то, что заставила их волноваться..."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "А, в таком случае я пообещала угостить всех сладостями в извинение за то, что заставила их волноваться..."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Отлично, меня тоже угости."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Отлично, меня тоже угости."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Отлично, меня тоже угости."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Думаю, этого достаточно."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Думаю, этого достаточно."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Думаю, этого достаточно."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Это тоже станет хорошим воспоминанием."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Это тоже станет хорошим воспоминанием."
+  },
+  {
+    "file": "ca04_20.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Это тоже станет хорошим воспоминанием."
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Иными словами, нам следует вести себя сдержанно. Вы понимаете?"
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Иными словами, нам следует вести себя сдержанно. Вы понимаете?"
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Иными словами, нам следует вести себя сдержанно. Вы понимаете?"
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Я и сам это понимаю."
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Я и сам это понимаю."
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Я и сам это понимаю."
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Вообще-то я дал обещание вашему отцу."
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Вообще-то я дал обещание вашему отцу."
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Вообще-то я дал обещание вашему отцу."
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Что тебя беспокоит с самого начала?"
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Что тебя беспокоит с самого начала?"
+  },
+  {
+    "file": "ca05_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Что тебя беспокоит с самого начала?"
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Ещё бы! Тебе конец. Хотя я пока не знаю, что теперь делать..."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Ещё бы! Тебе конец. Хотя я пока не знаю, что теперь делать..."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Ещё бы! Тебе конец. Хотя я пока не знаю, что теперь делать..."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Небольшую горсть."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Небольшую горсть."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Небольшую горсть."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Главное — умеренность."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Главное — умеренность."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Главное — умеренность."
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Выложимся на полную!"
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Выложимся на полную!"
+  },
+  {
+    "file": "ca05_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Выложимся на полную!"
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Даже мне, говоришь..."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Даже мне, говоришь..."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Даже мне, говоришь..."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Это ты сама завела разговор."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Это ты сама завела разговор."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Это ты сама завела разговор."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Отдых тоже важен."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Отдых тоже важен."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Отдых тоже важен."
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Ты волнуешься из-за экзаменов?"
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Ты волнуешься из-за экзаменов?"
+  },
+  {
+    "file": "ca05_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Ты волнуешься из-за экзаменов?"
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "...Вы слишком много думаете."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "...Вы слишком много думаете."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "...Вы слишком много думаете."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ты уже чувствуешь, что проиграла сёстрам?"
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ты уже чувствуешь, что проиграла сёстрам?"
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ты уже чувствуешь, что проиграла сёстрам?"
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "...Ладно, больше не буду спрашивать."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "...Ладно, больше не буду спрашивать."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "...Ладно, больше не буду спрашивать."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я просто за тебя волнуюсь."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я просто за тебя волнуюсь."
+  },
+  {
+    "file": "ca05_12.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я просто за тебя волнуюсь."
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "П-п-подождите! Вы и правда так легко с этим согласитесь?!"
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "П-п-подождите! Вы и правда так легко с этим согласитесь?!"
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "П-п-подождите! Вы и правда так легко с этим согласитесь?!"
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Райха ведь уже решила?"
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Райха ведь уже решила?"
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Райха ведь уже решила?"
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "На самом деле всё было не так уж плохо."
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "На самом деле всё было не так уж плохо."
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "На самом деле всё было не так уж плохо."
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Вообще-то мне понравилось именно твоё."
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Вообще-то мне понравилось именно твоё."
+  },
+  {
+    "file": "ca05_14.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Вообще-то мне понравилось именно твоё."
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Уэсуги-кун? Что-то случилось?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Уэсуги-кун? Что-то случилось?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Уэсуги-кун? Что-то случилось?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ты ведь не собираешься отказываться?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ты ведь не собираешься отказываться?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ты ведь не собираешься отказываться?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Ёцуба, ты не присоединишься?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Ёцуба, ты не присоединишься?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Ёцуба, ты не присоединишься?"
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Райхе нужно спросить Ицуки."
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Райхе нужно спросить Ицуки."
+  },
+  {
+    "file": "ca05_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Райхе нужно спросить Ицуки."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "П-послушай, эм, Райха-тян? Что ты имеешь в виду...?"
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "П-послушай, эм, Райха-тян? Что ты имеешь в виду...?"
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "П-послушай, эм, Райха-тян? Что ты имеешь в виду...?"
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Не говори таких странных вещей..."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Не говори таких странных вещей..."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Не говори таких странных вещей..."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Тогда пусть Райха выберет мне одежду."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Тогда пусть Райха выберет мне одежду."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Тогда пусть Райха выберет мне одежду."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Но у меня недостаточно одежды для этого."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Но у меня недостаточно одежды для этого."
+  },
+  {
+    "file": "ca05_22.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Но у меня недостаточно одежды для этого."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "А, ничего..."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "А, ничего..."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "А, ничего..."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Мы уже в третий раз смотрим фейерверк."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Мы уже в третий раз смотрим фейерверк."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Мы уже в третий раз смотрим фейерверк."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Всё наконец успокоилось, да?"
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Всё наконец успокоилось, да?"
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Всё наконец успокоилось, да?"
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Просто подумал, что это красиво."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Просто подумал, что это красиво."
+  },
+  {
+    "file": "ca05_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Просто подумал, что это красиво."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Что? Совсем ты не умеешь удивляться."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Что? Совсем ты не умеешь удивляться."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Что? Совсем ты не умеешь удивляться."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Знаешь, боги могут тебя наказать."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Знаешь, боги могут тебя наказать."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Знаешь, боги могут тебя наказать."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Наверное, оно держится благодаря рельефу."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Наверное, оно держится благодаря рельефу."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Наверное, оно держится благодаря рельефу."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Прости, но я не полагаюсь на богов."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Прости, но я не полагаюсь на богов."
+  },
+  {
+    "file": "ca06_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Прости, но я не полагаюсь на богов."
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Футаро-кун. Пойдёшь со мной?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Футаро-кун. Пойдёшь со мной?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Футаро-кун. Пойдёшь со мной?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Почему я?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Почему я?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Почему я?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Может, сначала проверим виллу?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Может, сначала проверим виллу?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Может, сначала проверим виллу?"
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Да, я помогу."
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Да, я помогу."
+  },
+  {
+    "file": "ca06_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Да, я помогу."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Я нашла это, когда мы выходили оттуда. Даже в трудной ситуации я извлекаю пользу из всего."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Я нашла это, когда мы выходили оттуда. Даже в трудной ситуации я извлекаю пользу из всего."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Я нашла это, когда мы выходили оттуда. Даже в трудной ситуации я извлекаю пользу из всего."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Какая ты находчивая."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Какая ты находчивая."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Какая ты находчивая."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Вот это достижение."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Вот это достижение."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Вот это достижение."
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Молодец, Нино!"
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Молодец, Нино!"
+  },
+  {
+    "file": "ca06_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Молодец, Нино!"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "...А?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "...А?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "...А?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ты собираешься заниматься самостоятельно или что?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ты собираешься заниматься самостоятельно или что?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ты собираешься заниматься самостоятельно или что?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Ты плохо себя чувствуешь?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Ты плохо себя чувствуешь?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Ты плохо себя чувствуешь?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Почему...?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Почему...?"
+  },
+  {
+    "file": "ca06_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Почему...?"
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Мику"
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "А... Значит, ты не ищешь кристаллы, Футаро?"
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "А... Значит, ты не ищешь кристаллы, Футаро?"
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "А... Значит, ты не ищешь кристаллы, Футаро?"
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Да, мы не ищем кристаллы."
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Да, мы не ищем кристаллы."
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Да, мы не ищем кристаллы."
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Ну, найдём — значит найдём."
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Ну, найдём — значит найдём."
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Ну, найдём — значит найдём."
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Ицуки ведь сказала, что мы патрулируем?"
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Ицуки ведь сказала, что мы патрулируем?"
+  },
+  {
+    "file": "ca06_17.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Ицуки ведь сказала, что мы патрулируем?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "ААА?! Ч-что это сейчас было?!"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "ААА?! Ч-что это сейчас было?!"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "ААА?! Ч-что это сейчас было?!"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ты что-то услышала?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ты что-то услышала?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ты что-то услышала?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Может, это шум ветра?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Может, это шум ветра?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Может, это шум ветра?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Может, это была Нино?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Может, это была Нино?"
+  },
+  {
+    "file": "ca06_19.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Может, это была Нино?"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "П-ПОХИТИЛИ?!"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "П-ПОХИТИЛИ?!"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "П-ПОХИТИЛИ?!"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "КТО ПОХИТИТЕЛЬ?!"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "КТО ПОХИТИТЕЛЬ?!"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "КТО ПОХИТИТЕЛЬ?!"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "(О нет! Успокойся, Футаро!)"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "(О нет! Успокойся, Футаро!)"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "(О нет! Успокойся, Футаро!)"
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Н-нет, такого не может быть."
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Н-нет, такого не может быть."
+  },
+  {
+    "file": "ca06_23.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Н-нет, такого не может быть."
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Райха"
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Нужно действовать быстро, а то кто-нибудь другой их в два счёта уведёт!"
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Нужно действовать быстро, а то кто-нибудь другой их в два счёта уведёт!"
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Нужно действовать быстро, а то кто-нибудь другой их в два счёта уведёт!"
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Каждый волен испытывать свои чувства."
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Каждый волен испытывать свои чувства."
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Каждый волен испытывать свои чувства."
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Не пользовался ли я их добротой?"
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Не пользовался ли я их добротой?"
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Не пользовался ли я их добротой?"
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Они настроены серьёзно."
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Они настроены серьёзно."
+  },
+  {
+    "file": "ca07_01.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Они настроены серьёзно."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Райха"
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Не просто быть милым, а побаловать их. Думаю, тогда они все будут улыбаться и хихикать!"
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Не просто быть милым, а побаловать их. Думаю, тогда они все будут улыбаться и хихикать!"
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Не просто быть милым, а побаловать их. Думаю, тогда они все будут улыбаться и хихикать!"
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Они могут этим увлечься."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Они могут этим увлечься."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Они могут этим увлечься."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Легко сказать, но я не знаю как."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Легко сказать, но я не знаю как."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Легко сказать, но я не знаю как."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Баловать их — не выход."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Баловать их — не выход."
+  },
+  {
+    "file": "ca07_06.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Баловать их — не выход."
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Райха"
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "У нас всё получается, братик. Пока что план идёт как нельзя лучше!"
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "У нас всё получается, братик. Пока что план идёт как нельзя лучше!"
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "У нас всё получается, братик. Пока что план идёт как нельзя лучше!"
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Если так, то отлично..."
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Если так, то отлично..."
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Если так, то отлично..."
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Что ты говоришь? Всё только началось!"
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Что ты говоришь? Всё только началось!"
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Что ты говоришь? Всё только началось!"
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Это и твоя заслуга, Райха."
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Это и твоя заслуга, Райха."
+  },
+  {
+    "file": "ca07_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Это и твоя заслуга, Райха."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Райха"
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Нет... Прости, что я так тебя измотала, что ты потерял сознание."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Нет... Прости, что я так тебя измотала, что ты потерял сознание."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Нет... Прости, что я так тебя измотала, что ты потерял сознание."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Это не твоя вина, Райха."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Это не твоя вина, Райха."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Это не твоя вина, Райха."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Честно говоря, я чувствую себя жалким..."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Честно говоря, я чувствую себя жалким..."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Честно говоря, я чувствую себя жалким..."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я понял предел своих возможностей."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я понял предел своих возможностей."
+  },
+  {
+    "file": "ca07_10.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я понял предел своих возможностей."
+  }
+]
