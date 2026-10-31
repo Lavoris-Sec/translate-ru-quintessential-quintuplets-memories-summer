@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[0].language[1].text","translation":"Это не любовь, я просто научился!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[0].language[1].searchtext","translation":"Это не любовь, я просто научился!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[0].language[1].speechtext","translation":"Это не любовь, я просто научился!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[1].language[1].text","translation":"Любовь бывает разной."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[1].language[1].searchtext","translation":"Любовь бывает разной."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[1].language[1].speechtext","translation":"Любовь бывает разной."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[2].language[1].text","translation":"Я просто как-то понял."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[2].language[1].searchtext","translation":"Я просто как-то понял."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1099].selects[2].language[1].speechtext","translation":"Я просто как-то понял."}
+]

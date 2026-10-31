@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[0].language[1].text","translation":"Может, приложим что-нибудь холодное?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[0].language[1].searchtext","translation":"Может, приложим что-нибудь холодное?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[0].language[1].speechtext","translation":"Может, приложим что-нибудь холодное?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[1].language[1].text","translation":"Прости."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[1].language[1].searchtext","translation":"Прости."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[1].language[1].speechtext","translation":"Прости."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[2].language[1].text","translation":"Я отнесу тебя на виллу."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[2].language[1].searchtext","translation":"Я отнесу тебя на виллу."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1051].selects[2].language[1].speechtext","translation":"Я отнесу тебя на виллу."}
+]

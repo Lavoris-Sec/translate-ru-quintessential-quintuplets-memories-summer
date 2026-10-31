@@ -585,6 +585,721 @@
     "translation": "Райха, хочешь попробовать?"
   },
   {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Не нужно извиняться. Если он не смог понять, это проблема Футаро-куна."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Не нужно извиняться. Если он не смог понять, это проблема Футаро-куна."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Не нужно извиняться. Если он не смог понять, это проблема Футаро-куна."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "С такими подсказками невозможно справиться."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "С такими подсказками невозможно справиться."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "С такими подсказками невозможно справиться."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Покажи, как это делается."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Покажи, как это делается."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Покажи, как это делается."
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я недостаточно хорошо понял, да?"
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я недостаточно хорошо понял, да?"
+  },
+  {
+    "file": "st02_07.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я недостаточно хорошо понял, да?"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Нино"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Ага! ПОЙМАЛА тебя!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Ага! ПОЙМАЛА тебя!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Ага! ПОЙМАЛА тебя!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "КАКОГО ЧЁРТА?!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "КАКОГО ЧЁРТА?!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "КАКОГО ЧЁРТА?!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "А, чёрт, поймала!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "А, чёрт, поймала!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "А, чёрт, поймала!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Зачем ты за меня схватилась?!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Зачем ты за меня схватилась?!"
+  },
+  {
+    "file": "st02_08.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Зачем ты за меня схватилась?!"
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Я совсем не помогла, поэтому откажусь."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Я совсем не помогла, поэтому откажусь."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Я совсем не помогла, поэтому откажусь."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Ну не упрямься."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Ну не упрямься."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Ну не упрямься."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Мы просто играли. Не будь к себе так строга."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Мы просто играли. Не будь к себе так строга."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Мы просто играли. Не будь к себе так строга."
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Неужели ты не исполнишь моё желание?"
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Неужели ты не исполнишь моё желание?"
+  },
+  {
+    "file": "st02_09.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Неужели ты не исполнишь моё желание?"
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ицуки"
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Да, звучит интересно! Я совершенно не против!"
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Да, звучит интересно! Я совершенно не против!"
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Да, звучит интересно! Я совершенно не против!"
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Не храбрись."
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Не храбрись."
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Не храбрись."
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Звучит немного страшно."
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Звучит немного страшно."
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Звучит немного страшно."
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Разве это не опасно?"
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Разве это не опасно?"
+  },
+  {
+    "file": "st03_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Разве это не опасно?"
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Нет-нет, не настолько сильно. ...Да, всё хорошо. Думаю, я смогу идти."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Нет-нет, не настолько сильно. ...Да, всё хорошо. Думаю, я смогу идти."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Нет-нет, не настолько сильно. ...Да, всё хорошо. Думаю, я смогу идти."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Может, приложим что-нибудь холодное?"
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Может, приложим что-нибудь холодное?"
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Может, приложим что-нибудь холодное?"
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Прости."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Прости."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Прости."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я отнесу тебя на виллу."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я отнесу тебя на виллу."
+  },
+  {
+    "file": "st03_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я отнесу тебя на виллу."
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Хм, как я и думала, было бы гораздо интереснее, если бы кто-то заранее спрятался и пугал остальных. Вы идите вперёд вдвоём."
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Хм, как я и думала, было бы гораздо интереснее, если бы кто-то заранее спрятался и пугал остальных. Вы идите вперёд вдвоём."
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Хм, как я и думала, было бы гораздо интереснее, если бы кто-то заранее спрятался и пугал остальных. Вы идите вперёд вдвоём."
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Мы решили, что нас никто не будет пугать."
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Мы решили, что нас никто не будет пугать."
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Мы решили, что нас никто не будет пугать."
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Если тебя не будет с нами, какой смысл?"
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Если тебя не будет с нами, какой смысл?"
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Если тебя не будет с нами, какой смысл?"
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Может, попробуем?"
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Может, попробуем?"
+  },
+  {
+    "file": "st03_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Может, попробуем?"
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Мику"
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Я и не собиралась прятаться. Просто шла в тени деревьев."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Я и не собиралась прятаться. Просто шла в тени деревьев."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Я и не собиралась прятаться. Просто шла в тени деревьев."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Так ты была рядом?"
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Так ты была рядом?"
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Так ты была рядом?"
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Поразительно."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Поразительно."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Поразительно."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Прости за наше поведение."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Прости за наше поведение."
+  },
+  {
+    "file": "st03_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Прости за наше поведение."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Итика"
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Да, это правда... Похоже, мы сможем благополучно вернуться."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Да, это правда... Похоже, мы сможем благополучно вернуться."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Да, это правда... Похоже, мы сможем благополучно вернуться."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Нам пока нельзя терять бдительность."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Нам пока нельзя терять бдительность."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Нам пока нельзя терять бдительность."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Мы кое-как добрались до этого момента."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Мы кое-как добрались до этого момента."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Мы кое-как добрались до этого момента."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Наконец-то..."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Наконец-то..."
+  },
+  {
+    "file": "st04_02.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Наконец-то..."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "А, мне? Дайте подумать..."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "А, мне? Дайте подумать..."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "А, мне? Дайте подумать..."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Если можно съесть, мне всё равно."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Если можно съесть, мне всё равно."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Если можно съесть, мне всё равно."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Летом — ледяная стружка."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Летом — ледяная стружка."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Летом — ледяная стружка."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Хочется яблоко в карамели."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Хочется яблоко в карамели."
+  },
+  {
+    "file": "st04_03.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Хочется яблоко в карамели."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Футаро"
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Это..."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Это..."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Это..."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Это не любовь, я просто научился!"
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Это не любовь, я просто научился!"
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Это не любовь, я просто научился!"
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Любовь бывает разной."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Любовь бывает разной."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Любовь бывает разной."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Я просто как-то понял."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Я просто как-то понял."
+  },
+  {
+    "file": "st04_04.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Я просто как-то понял."
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
+    "translation": "Ёцуба"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].text",
+    "translation": "Уэсуги! Ведь есть способ ловить рыбу, приманивая её светом?"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].searchtext",
+    "translation": "Уэсуги! Ведь есть способ ловить рыбу, приманивая её светом?"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selectInfo.language[1].speechtext",
+    "translation": "Уэсуги! Ведь есть способ ловить рыбу, приманивая её светом?"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].text",
+    "translation": "Неважно! Возвращайся сюда!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].searchtext",
+    "translation": "Неважно! Возвращайся сюда!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[0].language[1].speechtext",
+    "translation": "Неважно! Возвращайся сюда!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].text",
+    "translation": "Да, есть!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].searchtext",
+    "translation": "Да, есть!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[1].language[1].speechtext",
+    "translation": "Да, есть!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].text",
+    "translation": "Ицуки за тебя волнуется!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].searchtext",
+    "translation": "Ицуки за тебя волнуется!"
+  },
+  {
+    "file": "st04_05.txt.scn.m.json",
+    "jsonPath": "$.scenes[1].selects[2].language[1].speechtext",
+    "translation": "Ицуки за тебя волнуется!"
+  },
+  {
     "file": "ca01_06.txt.scn.m.json",
     "jsonPath": "$.scenes[1].selectInfo.language[1].disp",
     "translation": "Итика"

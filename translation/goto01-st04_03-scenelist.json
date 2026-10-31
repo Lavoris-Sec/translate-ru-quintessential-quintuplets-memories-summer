@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[0].language[1].text","translation":"Если можно съесть, мне всё равно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[0].language[1].searchtext","translation":"Если можно съесть, мне всё равно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[0].language[1].speechtext","translation":"Если можно съесть, мне всё равно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[1].language[1].text","translation":"Летом — ледяная стружка."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[1].language[1].searchtext","translation":"Летом — ледяная стружка."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[1].language[1].speechtext","translation":"Летом — ледяная стружка."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[2].language[1].text","translation":"Хочется яблоко в карамели."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[2].language[1].searchtext","translation":"Хочется яблоко в карамели."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1090].selects[2].language[1].speechtext","translation":"Хочется яблоко в карамели."}
+]

@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[0].language[1].text","translation":"Так ты была рядом?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[0].language[1].searchtext","translation":"Так ты была рядом?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[0].language[1].speechtext","translation":"Так ты была рядом?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[1].language[1].text","translation":"Поразительно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[1].language[1].searchtext","translation":"Поразительно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[1].language[1].speechtext","translation":"Поразительно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[2].language[1].text","translation":"Прости за наше поведение."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[2].language[1].searchtext","translation":"Прости за наше поведение."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1067].selects[2].language[1].speechtext","translation":"Прости за наше поведение."}
+]

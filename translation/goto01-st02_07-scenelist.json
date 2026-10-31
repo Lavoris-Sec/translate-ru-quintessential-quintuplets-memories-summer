@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[0].language[1].text","translation":"С такими подсказками невозможно справиться."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[0].language[1].searchtext","translation":"С такими подсказками невозможно справиться."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[0].language[1].speechtext","translation":"С такими подсказками невозможно справиться."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[1].language[1].text","translation":"Покажи, как это делается."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[1].language[1].searchtext","translation":"Покажи, как это делается."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[1].language[1].speechtext","translation":"Покажи, как это делается."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[2].language[1].text","translation":"Я недостаточно хорошо понял, да?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[2].language[1].searchtext","translation":"Я недостаточно хорошо понял, да?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1011].selects[2].language[1].speechtext","translation":"Я недостаточно хорошо понял, да?"}
+]

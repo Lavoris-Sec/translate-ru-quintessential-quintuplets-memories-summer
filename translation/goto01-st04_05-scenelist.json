@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[0].language[1].text","translation":"Неважно! Возвращайся сюда!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[0].language[1].searchtext","translation":"Неважно! Возвращайся сюда!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[0].language[1].speechtext","translation":"Неважно! Возвращайся сюда!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[1].language[1].text","translation":"Да, есть!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[1].language[1].searchtext","translation":"Да, есть!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[1].language[1].speechtext","translation":"Да, есть!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[2].language[1].text","translation":"Ицуки за тебя волнуется!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[2].language[1].searchtext","translation":"Ицуки за тебя волнуется!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1107].selects[2].language[1].speechtext","translation":"Ицуки за тебя волнуется!"}
+]

@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[0].language[1].text","translation":"Мы решили, что нас никто не будет пугать."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[0].language[1].searchtext","translation":"Мы решили, что нас никто не будет пугать."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[0].language[1].speechtext","translation":"Мы решили, что нас никто не будет пугать."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[1].language[1].text","translation":"Если тебя не будет с нами, какой смысл?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[1].language[1].searchtext","translation":"Если тебя не будет с нами, какой смысл?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[1].language[1].speechtext","translation":"Если тебя не будет с нами, какой смысл?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[2].language[1].text","translation":"Может, попробуем?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[2].language[1].searchtext","translation":"Может, попробуем?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1059].selects[2].language[1].speechtext","translation":"Может, попробуем?"}
+]

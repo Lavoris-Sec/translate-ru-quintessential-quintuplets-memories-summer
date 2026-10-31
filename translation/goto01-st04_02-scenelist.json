@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[0].language[1].text","translation":"Нам пока нельзя терять бдительность."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[0].language[1].searchtext","translation":"Нам пока нельзя терять бдительность."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[0].language[1].speechtext","translation":"Нам пока нельзя терять бдительность."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[1].language[1].text","translation":"Мы кое-как добрались до этого момента."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[1].language[1].searchtext","translation":"Мы кое-как добрались до этого момента."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[1].language[1].speechtext","translation":"Мы кое-как добрались до этого момента."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[2].language[1].text","translation":"Наконец-то..."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[2].language[1].searchtext","translation":"Наконец-то..."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1076].selects[2].language[1].speechtext","translation":"Наконец-то..."}
+]

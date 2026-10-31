@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[0].language[1].text","translation":"КАКОГО ЧЁРТА?!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[0].language[1].searchtext","translation":"КАКОГО ЧЁРТА?!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[0].language[1].speechtext","translation":"КАКОГО ЧЁРТА?!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[1].language[1].text","translation":"А, чёрт, поймала!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[1].language[1].searchtext","translation":"А, чёрт, поймала!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[1].language[1].speechtext","translation":"А, чёрт, поймала!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[2].language[1].text","translation":"Зачем ты за меня схватилась?!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[2].language[1].searchtext","translation":"Зачем ты за меня схватилась?!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1020].selects[2].language[1].speechtext","translation":"Зачем ты за меня схватилась?!"}
+]

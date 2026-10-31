@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[0].language[1].text","translation":"Ну не упрямься."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[0].language[1].searchtext","translation":"Ну не упрямься."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[0].language[1].speechtext","translation":"Ну не упрямься."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[1].language[1].text","translation":"Мы просто играли. Не будь к себе так строга."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[1].language[1].searchtext","translation":"Мы просто играли. Не будь к себе так строга."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[1].language[1].speechtext","translation":"Мы просто играли. Не будь к себе так строга."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[2].language[1].text","translation":"Неужели ты не исполнишь моё желание?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[2].language[1].searchtext","translation":"Неужели ты не исполнишь моё желание?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1029].selects[2].language[1].speechtext","translation":"Неужели ты не исполнишь моё желание?"}
+]

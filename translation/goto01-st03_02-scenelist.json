@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[0].language[1].text","translation":"Не храбрись."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[0].language[1].searchtext","translation":"Не храбрись."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[0].language[1].speechtext","translation":"Не храбрись."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[1].language[1].text","translation":"Звучит немного страшно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[1].language[1].searchtext","translation":"Звучит немного страшно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[1].language[1].speechtext","translation":"Звучит немного страшно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[2].language[1].text","translation":"Разве это не опасно?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[2].language[1].searchtext","translation":"Разве это не опасно?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[1039].selects[2].language[1].speechtext","translation":"Разве это не опасно?"}
+]
