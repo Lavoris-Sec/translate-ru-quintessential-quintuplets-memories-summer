@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[0].language[1].text","translation":"А что? Я сказал что-то не то?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[0].language[1].searchtext","translation":"А что? Я сказал что-то не то?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[0].language[1].speechtext","translation":"А что? Я сказал что-то не то?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[1].language[1].text","translation":"Именно сейчас об этом и надо говорить."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[1].language[1].searchtext","translation":"Именно сейчас об этом и надо говорить."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[1].language[1].speechtext","translation":"Именно сейчас об этом и надо говорить."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[2].language[1].text","translation":"Жаль, что у нас нет телескопа."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[2].language[1].searchtext","translation":"Жаль, что у нас нет телескопа."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[918].selects[2].language[1].speechtext","translation":"Жаль, что у нас нет телескопа."}
+]

@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[0].language[1].text","translation":"С ней всё будет в порядке."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[0].language[1].searchtext","translation":"С ней всё будет в порядке."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[0].language[1].speechtext","translation":"С ней всё будет в порядке."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[1].language[1].text","translation":"...Ты права."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[1].language[1].searchtext","translation":"...Ты права."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[1].language[1].speechtext","translation":"...Ты права."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[2].language[1].text","translation":"Ёцуба, ты замёрзла?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[2].language[1].searchtext","translation":"Ёцуба, ты замёрзла?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[948].selects[2].language[1].speechtext","translation":"Ёцуба, ты замёрзла?"}
+]

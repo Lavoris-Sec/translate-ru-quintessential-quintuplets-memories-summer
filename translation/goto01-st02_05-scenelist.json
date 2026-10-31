@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[0].language[1].text","translation":"Ёцуба, что мне делать?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[0].language[1].searchtext","translation":"Ёцуба, что мне делать?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[0].language[1].speechtext","translation":"Ёцуба, что мне делать?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[1].language[1].text","translation":"Мику, как ты хочешь?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[1].language[1].searchtext","translation":"Мику, как ты хочешь?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[1].language[1].speechtext","translation":"Мику, как ты хочешь?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[2].language[1].text","translation":"Дай я как следует нанесу крем."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[2].language[1].searchtext","translation":"Дай я как следует нанесу крем."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[990].selects[2].language[1].speechtext","translation":"Дай я как следует нанесу крем."}
+]

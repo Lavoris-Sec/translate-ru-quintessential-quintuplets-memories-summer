@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[0].language[1].text","translation":"Смотрите, не пораньтесь."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[0].language[1].searchtext","translation":"Смотрите, не пораньтесь."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[0].language[1].speechtext","translation":"Смотрите, не пораньтесь."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[1].language[1].text","translation":"Какая красивая."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[1].language[1].searchtext","translation":"Какая красивая."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[1].language[1].speechtext","translation":"Какая красивая."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[2].language[1].text","translation":"Хорошо, я тоже поищу."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[2].language[1].searchtext","translation":"Хорошо, я тоже поищу."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[973].selects[2].language[1].speechtext","translation":"Хорошо, я тоже поищу."}
+]

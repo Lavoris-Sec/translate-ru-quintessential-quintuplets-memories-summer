@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[0].language[1].text","translation":"Только Денеб остался в стороне."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[0].language[1].searchtext","translation":"Только Денеб остался в стороне."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[0].language[1].speechtext","translation":"Только Денеб остался в стороне."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[1].language[1].text","translation":"Надеюсь, на Танабату не пойдёт дождь."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[1].language[1].searchtext","translation":"Надеюсь, на Танабату не пойдёт дождь."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[1].language[1].speechtext","translation":"Надеюсь, на Танабату не пойдёт дождь."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[2].language[1].text","translation":"Уметь сдерживаться важно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[2].language[1].searchtext","translation":"Уметь сдерживаться важно."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[939].selects[2].language[1].speechtext","translation":"Уметь сдерживаться важно."}
+]

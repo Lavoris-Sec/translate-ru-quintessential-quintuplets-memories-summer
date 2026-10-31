@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[0].language[1].text","translation":"Почему бы не начать кому-то из вас?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[0].language[1].searchtext","translation":"Почему бы не начать кому-то из вас?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[0].language[1].speechtext","translation":"Почему бы не начать кому-то из вас?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[1].language[1].text","translation":"Начать должна ты, Ёцуба."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[1].language[1].searchtext","translation":"Начать должна ты, Ёцуба."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[1].language[1].speechtext","translation":"Начать должна ты, Ёцуба."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[2].language[1].text","translation":"Райха, хочешь попробовать?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[2].language[1].searchtext","translation":"Райха, хочешь попробовать?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[999].selects[2].language[1].speechtext","translation":"Райха, хочешь попробовать?"}
+]

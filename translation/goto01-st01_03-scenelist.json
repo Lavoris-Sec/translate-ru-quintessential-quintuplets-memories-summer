@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[0].language[1].text","translation":"Совсем не понимаю."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[0].language[1].searchtext","translation":"Совсем не понимаю."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[0].language[1].speechtext","translation":"Совсем не понимаю."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[1].language[1].text","translation":"Я... немного понимаю."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[1].language[1].searchtext","translation":"Я... немного понимаю."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[1].language[1].speechtext","translation":"Я... немного понимаю."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[2].language[1].text","translation":"Мику, что ты имела в виду?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[2].language[1].searchtext","translation":"Мику, что ты имела в виду?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[930].selects[2].language[1].speechtext","translation":"Мику, что ты имела в виду?"}
+]

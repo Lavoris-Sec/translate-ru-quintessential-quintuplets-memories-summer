@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[0].language[1].text","translation":"(Надо отсюда сбежать...)"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[0].language[1].searchtext","translation":"(Надо отсюда сбежать...)"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[0].language[1].speechtext","translation":"(Надо отсюда сбежать...)"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[1].language[1].text","translation":"Похвалами ты ничего не добьёшься."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[1].language[1].searchtext","translation":"Похвалами ты ничего не добьёшься."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[1].language[1].speechtext","translation":"Похвалами ты ничего не добьёшься."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[2].language[1].text","translation":"Пожалуйста, хватит..."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[2].language[1].searchtext","translation":"Пожалуйста, хватит..."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[981].selects[2].language[1].speechtext","translation":"Пожалуйста, хватит..."}
+]

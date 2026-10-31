@@ -1,0 +1,11 @@
+[
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[0].language[1].text","translation":"Да! Давайте!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[0].language[1].searchtext","translation":"Да! Давайте!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[0].language[1].speechtext","translation":"Да! Давайте!"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[1].language[1].text","translation":"Давайте вернёмся..."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[1].language[1].searchtext","translation":"Давайте вернёмся..."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[1].language[1].speechtext","translation":"Давайте вернёмся..."},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[2].language[1].text","translation":"Волейбол? А купаться не хотите?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[2].language[1].searchtext","translation":"Волейбол? А купаться не хотите?"},
+ {"file":"scenelist.scn.m.json","jsonPath":"$.list[959].selects[2].language[1].speechtext","translation":"Волейбол? А купаться не хотите?"}
+]
