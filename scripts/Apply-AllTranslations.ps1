@@ -33,7 +33,15 @@ function Apply-DialoguePatch {
     if (-not (Test-Path -LiteralPath $scenarioPath)) { throw "Scenario file not found: $scenarioPath" }
     if (-not (Test-Path -LiteralPath $patchPath)) { throw "Patch file not found: $patchPath" }
 
-    & $dialogueScript -ScenarioPath $scenarioPath -TranslationsPath $patchPath
+    $records = @(Get-Content -LiteralPath $patchPath -Raw | ConvertFrom-Json)
+    $catalogRecords = @($records | Where-Object { $_.PSObject.Properties['jsonPath'] })
+    if ($catalogRecords.Count -gt 0) {
+        if ($catalogRecords.Count -ne $records.Count) { throw "Mixed patch formats: $patchPath" }
+        & $catalogScript -ScenarioRoot $ScenarioRoot -CatalogPath $patchPath
+    }
+    else {
+        & $dialogueScript -ScenarioPath $scenarioPath -TranslationsPath $patchPath
+    }
 }
 
 # The opening uses legacy patch names, so its required order lives in the manifest.

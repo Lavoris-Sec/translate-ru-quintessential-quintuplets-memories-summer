@@ -9,6 +9,8 @@
 
 Перевод **ещё не завершён**. В игре есть дополнительные сценарии помимо 164 файлов вступления и основных глав, поэтому считать 164/164 за 100% всей игры нельзя.
 
+Найденные аудитом **1 ноября 2026** пропуски исправлены: 1 242 английские подписи говорящих, две реплики перед выбором во вступлении и 157 записей вариантов ответа в `scenelist` (471 поле с дубликатами). Исправлена обработка четырёх каталогов вступления и восстановлена первая реплика. Проверены применение на чистом оригинале и повторная распаковка сборки: все 538 сценарных JSON соответствуют патчам (после упаковки допускается только округление дробных числовых параметров до float32). Исправленная сборка установлена. Подробности и границы проверки: [TRANSLATION_AUDIT.md](TRANSLATION_AUDIT.md).
+
 **Изменённые диалоговые поля: 100%** — `[████████████████████]`
 
 **19 489 / 19 489** полей отличаются от английского оригинала в подготовленной версии.
@@ -17,15 +19,15 @@
 
 В патчах подготовлены:
 
-- Диалоги вступления `op_01`–`op_05` и основных глав `ca01`–`ca07` (164 файла), а также добавленные каталоги вариантов выбора. Полнота выбора и связанных записей ещё требует повторной проверки.
+- Диалоги вступления `op_01`–`op_05` и основных глав `ca01`–`ca07` (164 файла), а также каталоги вариантов выбора. Проверены поля английского языкового слота в вариантах и связанных записях `scenelist`: английских остатков не найдено.
 - Дополнительные диалоги `cl01`–`cl05` (20 файлов), сцены готовки `co01`–`co05` (15 файлов) и реакции на блюда `ea01`–`ea30` (90 файлов).
 - Утренние сцены `gu01`–`gu05` (15 файлов), вечерние сцены `ni01`–`ni05` (15 файлов) и общие сцены `se_01`–`se_07` (7 файлов).
 - Все 27 сюжетных файлов дополнительных событий `st01`–`st05`, включая связанные варианты выбора; служебный `standlist` диалогов не содержит.
 - Все 150 сцен `up` (`up01`–`up05`): занятия и дополнительные события со всеми пятью сёстрами.
 - Сцена `go_01`, концовки `ed01`–`ed07` (14 файлов), обучение `tu01_01` и `tu02_01` с вариантами выбора.
-- Каталог из 116 системных строк. Отдельные графические меню пока остаются английскими.
+- Каталог из 116 системных строк и дополнительный перевод названия видеоматериала `MOVIE_TEXT14`. Отдельные графические меню пока остаются английскими.
 
-Варианты выбора, остальные текстовые ресурсы и интерфейс требуют дополнительной проверки и перевода. Отображение новых блоков в игре ещё не проверено.
+Остальные текстовые ресурсы, графика и интерфейс требуют дополнительной проверки и перевода. Отображение исправленных блоков в игре и полная литературная вычитка ещё не выполнены.
 
 ## Что установить
 
@@ -87,107 +89,7 @@ $repo = 'D:\translate\goto-ru'
 & "$repo\scripts\Apply-AllTranslations.ps1"
 ```
 
-Ниже оставлен старый ручной список как справка для проверки и нестандартных случаев. Новые патчи в него добавлять не требуется.
-
-```powershell
-$repo = 'D:\translate\goto-ru'
-$scenario = 'D:\translate\goto-ru\work\goto01\scenario\scenario'
-
-$patches = @(
-  @{f='op_01.txt.scn.m.json'; p='goto01-opening-test.json'},
-  @{f='op_01.txt.scn.m.json'; p='goto01-op01-opening.json'},
-  @{f='op_01.txt.scn.m.json'; p='goto01-op01-live-test.json'},
-  @{f='op_01.txt.scn.m.json'; p='goto01-op01-dock-01.json'},
-  @{f='op_01.txt.scn.m.json'; p='goto01-op01-dock-02.json'},
-  @{f='op_01.txt.scn.m.json'; p='goto01-op01-dock-03.json'},
-  @{f='ca01_01.txt.scn.m.json'; p='goto01-ca01_01-part1.json'},
-  @{f='ca01_01.txt.scn.m.json'; p='goto01-ca01_01-part2.json'},
-  @{f='ca01_02.txt.scn.m.json'; p='goto01-ca01_02-part1.json'},
-  @{f='ca01_02.txt.scn.m.json'; p='goto01-ca01_02-part2.json'},
-  @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part1.json'},
-  @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part2a.json'},
-  @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part2b.json'},
-  @{f='ca01_03.txt.scn.m.json'; p='goto01-ca01_03-part3.json'},
-  @{f='ca01_04.txt.scn.m.json'; p='goto01-ca01_04-part1.json'},
-  @{f='ca01_04.txt.scn.m.json'; p='goto01-ca01_04-part2.json'},
-  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part1.json'},
-  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part2a.json'},
-  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part2b.json'},
-  @{f='ca01_05.txt.scn.m.json'; p='goto01-ca01_05-part3.json'},
-  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part1.json'},
-  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part2.json'},
-  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part3a.json'},
-  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part3b.json'},
-  @{f='ca01_06.txt.scn.m.json'; p='goto01-ca01_06-part4.json'},
-  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part1.json'},
-  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part2.json'},
-  @{f='ca01_07.txt.scn.m.json'; p='goto01-ca01_07-part3.json'},
-  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part1.json'},
-  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part2.json'},
-  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part3.json'},
-  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part4.json'},
-  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part5.json'},
-  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part6.json'},
-  @{f='ca01_08.txt.scn.m.json'; p='goto01-ca01_08-part7.json'},
-  @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part1.json'},
-  @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part2.json'},
-  @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part3.json'},
-  @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part4.json'},
-  @{f='ca01_09.txt.scn.m.json'; p='goto01-ca01_09-part5.json'},
-  @{f='ca01_10.txt.scn.m.json'; p='goto01-ca01_10-part1.json'},
-  @{f='ca01_10.txt.scn.m.json'; p='goto01-ca01_10-part2.json'},
-  @{f='ca01_11.txt.scn.m.json'; p='goto01-ca01_11-part1.json'},
-  @{f='ca01_12.txt.scn.m.json'; p='goto01-ca01_12-part1.json'},
-  @{f='ca01_12.txt.scn.m.json'; p='goto01-ca01_12-part2.json'},
-  @{f='ca01_12.txt.scn.m.json'; p='goto01-ca01_12-part3.json'},
-  @{f='ca01_13.txt.scn.m.json'; p='goto01-ca01_13-part1.json'},
-  @{f='ca01_13.txt.scn.m.json'; p='goto01-ca01_13-part2.json'},
-  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part1.json'},
-  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part2.json'},
-  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part3.json'},
-  @{f='ca01_14.txt.scn.m.json'; p='goto01-ca01_14-part4.json'},
-  @{f='ca01_15.txt.scn.m.json'; p='goto01-ca01_15-part1.json'},
-  @{f='ca01_15.txt.scn.m.json'; p='goto01-ca01_15-part2.json'},
-  @{f='ca01_16.txt.scn.m.json'; p='goto01-ca01_16-part1.json'},
-  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part1.json'},
-  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part2.json'},
-  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part3.json'},
-  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part4.json'},
-  @{f='ca01_17.txt.scn.m.json'; p='goto01-ca01_17-part5.json'},
-  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part1.json'},
-  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part2.json'},
-  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part3.json'},
-  @{f='ca01_18.txt.scn.m.json'; p='goto01-ca01_18-part4.json'},
-  @{f='ca01_19.txt.scn.m.json'; p='goto01-ca01_19-part1.json'},
-  @{f='ca01_19.txt.scn.m.json'; p='goto01-ca01_19-part2.json'},
-  @{f='ca02_01.txt.scn.m.json'; p='goto01-ca02_01-part1.json'},
-  @{f='ca02_01.txt.scn.m.json'; p='goto01-ca02_01-part2.json'},
-  @{f='ca02_02.txt.scn.m.json'; p='goto01-ca02_02-part1.json'},
-  @{f='ca02_02.txt.scn.m.json'; p='goto01-ca02_02-part2.json'},
-  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part1.json'},
-  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part2.json'},
-  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part3.json'},
-  @{f='ca02_03.txt.scn.m.json'; p='goto01-ca02_03-part4.json'},
-  @{f='ca02_04.txt.scn.m.json'; p='goto01-ca02_04.json'},
-  @{f='ca02_05.txt.scn.m.json'; p='goto01-ca02_05.json'},
-  @{f='ca02_06.txt.scn.m.json'; p='goto01-ca02_06-part1.json'},
-  @{f='ca02_06.txt.scn.m.json'; p='goto01-ca02_06-part2.json'},
-  @{f='ca02_06.txt.scn.m.json'; p='goto01-ca02_06-part3.json'},
-  @{f='ca02_06.txt.scn.m.json'; p='goto01-ca02_06-part4.json'},
-  @{f='ca02_07.txt.scn.m.json'; p='goto01-ca02_07-part1.json'},
-  @{f='ca02_07.txt.scn.m.json'; p='goto01-ca02_07-part2.json'},
-  @{f='ca02_07.txt.scn.m.json'; p='goto01-ca02_07-part3.json'},
-  @{f='ca02_08.txt.scn.m.json'; p='goto01-ca02_08-part1.json'},
-  @{f='ca02_08.txt.scn.m.json'; p='goto01-ca02_08-part2.json'},
-  @{f='ca02_09.txt.scn.m.json'; p='goto01-ca02_09.json'},
-  @{f='ca02_10.txt.scn.m.json'; p='goto01-ca02_10-part1.json'},
-  @{f='ca02_10.txt.scn.m.json'; p='goto01-ca02_10-part2.json'}
-)
-foreach ($patch in $patches) {
-  & "$repo\scripts\Apply-DialogueBlock.ps1" -ScenarioPath "$scenario\$($patch.f)" -TranslationsPath "$repo\translation\$($patch.p)"
-}
-& "$repo\scripts\Apply-TranslationCatalog.ps1" -ScenarioRoot $scenario -CatalogPath "$repo\translation\goto01-ca01_02-choices.json"
-```
+Используйте автоскрипт: он различает диалоговые патчи (`scene/text`) и каталоги (`file/jsonPath`) и сохраняет порядок применения из манифеста. Каталоги нельзя передавать напрямую в `Apply-DialogueBlock.ps1`.
 
 ## Сборка и установка
 

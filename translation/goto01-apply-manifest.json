@@ -397,9 +397,11 @@
     "goto01-st04_05-scenelist.json",
     "goto01-tutorial-choices.json",
     "goto01-op03-choices.json",
-    "goto01-op05-choices.json"
+    "goto01-op05-choices.json",
+    "goto01-audit-fixes.json"
   ],
   "interfaceCatalogs": [
-    "goto01-interface-system-text.json"
+    "goto01-interface-system-text.json",
+    "goto01-interface-audit-fixes.json"
   ]
 }
